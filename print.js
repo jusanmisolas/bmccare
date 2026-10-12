@@ -1,0 +1,26 @@
+const escapePrint=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const printParams=new URLSearchParams(window.location.search);const printId=printParams.get('article');const printLanguage=printParams.get('lang')==='fil'?'fil':'en';document.documentElement.lang=printLanguage;
+const printCategories={'Getting started':'Pagsisimula','Movement':'Ehersisyo at pagkilos','Nutrition':'Nutrisyon','Well-being':'Kalusugan at well-being','Medicines':'Mga gamot','Heart conditions':'Mga kondisyon ng puso','Healthy habits':'Healthy habits','Safety':'Kaligtasan','Family support':'Suporta ng pamilya','Recovery at home':'Recovery sa bahay'};
+const printButton=document.getElementById('print-button');
+printButton.addEventListener('click',()=>window.print());
+if(printLanguage==='fil'){document.getElementById('print-button').textContent='I-print / I-save bilang PDF';document.getElementById('back-link').textContent='Bumalik sa mga babasahin';document.querySelector('.hint').textContent='Gamitin ang print dialog para mag-print o piliin ang Save as PDF. Kung hindi ito bumukas, gamitin ang button sa itaas.';document.getElementById('guide').innerHTML='<p>Binubuksan ang gabay…</p>'}
+if(printParams.get('checklist')==='1'){
+ const title=printLanguage==='fil'?'Checklist para sa unang pagbisita':'First-visit checklist';
+ const intro=printLanguage==='fil'?'Makipag-ugnayan muna sa amin para malaman ang dadalhin.':'Contact us before your visit to confirm what you need to bring.';
+ const items=printLanguage==='fil'?['Itanong sa doktor kung angkop sa iyo ang rehabilitation.','Kumpirmahin ang kailangan sa referral at appointment.','Alamin ang bayad, coverage, at mga available na tulong.','Itanong kung anong medical records at ID ang dadalhin.','Ihanda ang updated na listahan ng gamot at impormasyon tungkol sa allergies mo.','Isulat ang mga tanong mo tungkol sa ehersisyo, pagkain, stress, at araw-araw na gawain.','Itanong kung maaaring magsama ng kapamilya.','Kumpirmahin ang lokasyon at planuhin ang biyahe mo.']:['Ask your doctor whether rehabilitation is suitable.','Confirm referral and appointment requirements.','Confirm fees, coverage, and assistance options.','Ask which medical records and identification to bring.','Prepare a current medicine list and allergy information.','Write questions about exercise, food, stress, and daily life.','Ask whether a family member may accompany you.','Confirm the location and your transport plan.'];
+ const checked=printParams.get('checked')||'';
+ document.title=title+' | Cardiac Rehabilitation Portal';
+ const back=document.getElementById('back-link');back.href='index.html#checklist';back.textContent=printLanguage==='fil'?'Bumalik sa checklist':'Back to checklist';
+ document.getElementById('guide').innerHTML='<article><p class="portal">Cardiac Rehabilitation Portal</p><h1>'+title+'</h1><p>'+intro+'</p><ul class="checklist">'+items.map((item,i)=>'<li><span class="check-box" aria-label="'+(checked[i]==='1'?(printLanguage==='fil'?'Nalagyan ng tsek':'Checked'):(printLanguage==='fil'?'Walang tsek':'Unchecked'))+'">'+(checked[i]==='1'?'✓':'')+'</span><span>'+escapePrint(item)+'</span></li>').join('')+'</ul><p class="meta">Cardiac Rehabilitation Unit · Cardiac Center · Bicol Medical Center<br>(+63) 917-155-7163 · bmccardiaccenter@gmail.com</p></article>';
+ printButton.disabled=false;window.setTimeout(()=>window.print(),300);
+}else fetch(printLanguage==='fil'?'articles-fil.json':'articles.json').then(r=>{if(!r.ok)throw Error('load');return r.json()}).then(items=>{
+ const article=items.find(a=>a.id===printId);if(!article)throw Error('missing');
+ document.title=article.title+' | Cardiac Rehabilitation Portal';
+ document.getElementById('back-link').href='index.html#article/'+encodeURIComponent(article.id);
+ const paragraphs=article.sections.map(([heading,body])=>'<section><h2>'+escapePrint(heading)+'</h2><p>'+escapePrint(body).replace(/\[([\d,]+)\]/g,(_,numbers)=>'<sup>'+numbers.split(',').map(n=>'<a href="#reference-'+n+'">['+n+']</a>').join(' ')+'</sup>')+'</p></section>').join('');
+ const sources=article.sources.map(([title,url],i)=>'<li id="reference-'+(i+1)+'"><a href="'+escapePrint(url)+'">'+escapePrint(title)+'</a><span class="source-url">'+escapePrint(url)+'</span></li>').join('');
+ document.getElementById('guide').innerHTML='<article><p class="portal">Cardiac Rehabilitation Portal</p><p class="category">'+escapePrint(printLanguage==='fil'?(printCategories[article.category]||article.category):article.category)+'</p><h1>'+escapePrint(article.title)+'</h1>'+paragraphs+'<h2>'+(printLanguage==='fil'?'Mga reference':'Sources')+'</h2><ol class="sources">'+sources+'</ol><p class="meta">'+(printLanguage==='fil'?'Huling binuksan ang mga reference noong 13 October 2026.':'Sources accessed 13 October 2026.')+'</p></article>';
+ printButton.disabled=false;
+ // Printing runs from a standalone page, outside any embedded preview frame.
+ window.setTimeout(()=>window.print(),300);
+}).catch(()=>{document.getElementById('guide').innerHTML=printLanguage==='fil'?'<div class="error"><h1>Hindi mabuksan ang gabay</h1><p>Bumalik sa mga babasahin at buksan muli ang gabay.</p></div>':'<div class="error"><h1>Guide could not load</h1><p>Return to the resource library and open the guide again.</p></div>';});
