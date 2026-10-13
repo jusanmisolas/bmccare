@@ -57,7 +57,44 @@
       ]
     ],
     "photo": "ph-understanding-rehab",
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "2024, April 24",
+        "title": "What is cardiac rehabilitation?",
+        "url": "https://www.heart.org/en/health-topics/cardiac-rehab/what-is-cardiac-rehabilitation",
+        "site": ""
+      },
+      {
+        "author": "Centers for Disease Control and Prevention",
+        "date": "n.d.",
+        "title": "How cardiac rehabilitation can help heal your heart",
+        "url": "https://www.cdc.gov/heart-disease/about/cardiac-rehabilitation-treatment.html",
+        "site": ""
+      },
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "Heart treatments",
+        "url": "https://www.nhlbi.nih.gov/health/heart-treatments-procedures",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Cardiac rehabilitation",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000791.htm",
+        "site": ""
+      },
+      {
+        "author": "British Heart Foundation",
+        "date": "n.d.",
+        "title": "What is cardiac rehabilitation?",
+        "url": "https://www.bhf.org.uk/informationsupport/support/cardiac-rehabilitation/what-is-cardiac-rehab",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "safe-activity",
@@ -121,7 +158,44 @@
       ]
     ],
     "photo": "ph-therapy",
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "2024, April 24",
+        "title": "Develop a physical activity plan for you",
+        "url": "https://www.heart.org/en/health-topics/cardiac-rehab/getting-physically-active/develop-a-physical-activity-plan-for-you",
+        "site": ""
+      },
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "Get regular physical activity",
+        "url": "https://www.nhlbi.nih.gov/health/heart-healthy-living/physical-activity",
+        "site": ""
+      },
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "Physical activity benefits",
+        "url": "https://www.nhlbi.nih.gov/health/heart/physical-activity/benefits",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Being active when you have heart disease",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000094.htm",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Being active after your heart attack",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000093.htm",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "heart-healthy-food",
@@ -185,7 +259,44 @@
       ]
     ],
     "photo": "ph-food",
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "2026, March 31",
+        "title": "Diet and lifestyle recommendations",
+        "url": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/aha-diet-and-lifestyle-recommendations",
+        "site": ""
+      },
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "Choose heart-healthy foods",
+        "url": "https://www.nhlbi.nih.gov/health/heart-healthy-living/healthy-foods",
+        "site": ""
+      },
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "Living with DASH",
+        "url": "https://www.nhlbi.nih.gov/health/dash/living-with-dash",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Heart disease and diet",
+        "url": "https://medlineplus.gov/ency/article/002436.htm",
+        "site": ""
+      },
+      {
+        "author": "World Health Organization",
+        "date": "n.d.",
+        "title": "Healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "stress-recovery",
@@ -249,7 +360,44 @@
       ]
     ],
     "photo": "ph-wellbeing",
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Coping with feelings",
+        "url": "https://www.heart.org/en/health-topics/cardiac-rehab/taking-care-of-yourself/coping-with-feelings",
+        "site": ""
+      },
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Stress and heart health",
+        "url": "https://www.heart.org/en/healthy-living/healthy-lifestyle/stress-management/stress-and-heart-health",
+        "site": ""
+      },
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "Manage stress",
+        "url": "https://www.nhlbi.nih.gov/health/heart-healthy-living/manage-stress",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Stress",
+        "url": "https://medlineplus.gov/stress.html",
+        "site": ""
+      },
+      {
+        "author": "National Institute of Mental Health",
+        "date": "n.d.",
+        "title": "Caring for your mental health",
+        "url": "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "medicine-routine",
@@ -305,7 +453,37 @@
         "Bago umalis sa pharmacy o clinic, ulitin ang instructions sa sarili mong salita. Itanong kung kailangang inumin ang gamot kasabay ng pagkain at kung may dapat iwasang produkto. Alamin kung sino ang kakausapin kapag may tanong. Hindi kailangang kabisaduhin ang lahat. Kailangan mo ng malinaw na nakasulat na plano at paraan para kumpirmahin ang hindi nauunawaan."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Taking control of your medications",
+        "url": "https://www.heart.org/en/health-topics/cardiac-rehab/managing-your-medicines/taking-control-of-your-medicines",
+        "site": ""
+      },
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Managing your medications",
+        "url": "https://www.heart.org/en/health-topics/cardiac-rehab/managing-your-medicines",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Taking multiple medicines safely",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000883.htm",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Medicine safety — filling your prescription",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000766.htm",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "blood-pressure",
@@ -369,7 +547,44 @@
         "Kung pinagsusukat sa bahay, dalhin ang instructions at bagong tala. Markahan ang reading na ikinabahala mo at itala ang ginawa pagkatapos. Itanong kung kailangang baguhin ang paraan o oras ng pagsukat. Layunin nitong magkaroon ng kapaki-pakinabang na tala at malinaw na hakbang para sa nakababahalang resulta. Alamin kung sino ang tatawagan sa ibang tanong."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "Living with high blood pressure",
+        "url": "https://www.nhlbi.nih.gov/health/high-blood-pressure/living-with",
+        "site": ""
+      },
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "High blood pressure treatment",
+        "url": "https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment",
+        "site": ""
+      },
+      {
+        "author": "Centers for Disease Control and Prevention",
+        "date": "n.d.",
+        "title": "Managing high blood pressure",
+        "url": "https://www.cdc.gov/high-blood-pressure/living-with/index.html",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "High blood pressure",
+        "url": "https://medlineplus.gov/highbloodpressure.html",
+        "site": ""
+      },
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Home blood pressure monitoring",
+        "url": "https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "cholesterol",
@@ -429,7 +644,44 @@
         "Bahagi ng mas malawak na pangangalaga sa puso ang cholesterol care. Itanong ang ugnayan nito sa ibang treatment goals at rehabilitation. Magdala ng malinaw na tanong, gaya ng kung naaabot ng plano ang target. Itala ang sagot. Mas madaling sundin ang hakbang kapag alam mo kung bakit ito mahalaga, kahit abala sa araw-araw."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "2024, April 17",
+        "title": "What is blood cholesterol?",
+        "url": "https://www.nhlbi.nih.gov/health/blood-cholesterol",
+        "site": ""
+      },
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "Living with high cholesterol",
+        "url": "https://www.nhlbi.nih.gov/health/blood-cholesterol/living-with",
+        "site": ""
+      },
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "Therapeutic lifestyle changes",
+        "url": "https://www.nhlbi.nih.gov/health/TLC-Therapeutic-Lifestyle-Changes-Lower-Cholesterol",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Cholesterol",
+        "url": "https://medlineplus.gov/cholesterol.html",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Cholesterol levels — what you need to know",
+        "url": "https://medlineplus.gov/cholesterollevelswhatyouneedtoknow.html",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "heart-failure-tracking",
@@ -493,7 +745,44 @@
         "Sabihin kung anong karaniwang gawain ang naapektuhan, ano ang nagbago, at kailan ito nagsimula. Halimbawa, kailangan mo nang huminto sa rutang dati ay madali mong nalalakad. Isama kung lumalala ito. Alamin kung gaano kaaga dapat ipaalam ang ganitong pattern. Mas malinaw ito kaysa malabong paglalarawan. Ang urgent symptoms ay kailangan pa rin ng agarang tulong, hindi tala lang. Ilagay ang records sa lugar na madaling mahanap ng tumutulong sa iyo."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "What is heart failure?",
+        "url": "https://www.heart.org/en/health-topics/heart-failure/what-is-heart-failure",
+        "site": ""
+      },
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Managing heart failure symptoms",
+        "url": "https://www.heart.org/en/health-topics/heart-failure/warning-signs-of-heart-failure/managing-heart-failure-symptoms",
+        "site": ""
+      },
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Physical changes to report",
+        "url": "https://www.heart.org/en/health-topics/heart-failure/living-with-heart-failure-and-managing-advanced-hf/physical-changes-to-report-for-heart-failure",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Heart failure",
+        "url": "https://medlineplus.gov/heartfailure.html",
+        "site": ""
+      },
+      {
+        "author": "National Health Service",
+        "date": "n.d.",
+        "title": "Heart failure",
+        "url": "https://www.nhs.uk/conditions/heart-failure/",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "diabetes-heart",
@@ -549,7 +838,37 @@
         "Maaaring kumpirmahin ang A1C appointment, itanong ang exercise precautions, o i-review ang medicine list. Itala ang sagot at kung sino ang tutulong. Hindi kailangang solusyonan ang lahat nang sabay. Kailangan ng planong tumitingin sa buong kalusugan at malinaw na paraan para mag-ulat ng problema at humingi ng suporta."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "Centers for Disease Control and Prevention",
+        "date": "n.d.",
+        "title": "Diabetes and your heart",
+        "url": "https://www.cdc.gov/diabetes/diabetes-complications/diabetes-and-your-heart.html",
+        "site": ""
+      },
+      {
+        "author": "American Diabetes Association",
+        "date": "n.d.",
+        "title": "Diabetes can affect your heart",
+        "url": "https://diabetes.org/health-wellness/diabetes-and-your-heart/diabetes-affect-your-heart",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Diabetic heart disease",
+        "url": "https://medlineplus.gov/diabeticheartdisease.html",
+        "site": ""
+      },
+      {
+        "author": "National Institute of Diabetes and Digestive and Kidney Diseases",
+        "date": "n.d.",
+        "title": "Diabetes, heart disease, and stroke",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/heart-disease-stroke",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "sleep-recovery",
@@ -605,7 +924,37 @@
         "Sabihin kung ang problema ay hirap makatulog, madalas na paggising, paggising na hinihingal, o sobrang antok sa araw. Alamin ang susunod na hakbang at follow-up. Nagsisimula ang tamang pangangalaga sa pag-unawa sa sanhi. Dapat isaalang-alang ang sintomas, paggamot, at routine sa bahay. Kung may susubukang pagbabago, itanong kung gaano katagal at kailan kailangan ng mas maagang review. Ituon ang tala sa pangunahing problema. Sabihin kung hindi nakakatulong ang plano. Ang team ang magdedesisyon kung kailangan ng ibang assessment."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "2022, March 24",
+        "title": "Get enough good-quality sleep",
+        "url": "https://www.nhlbi.nih.gov/health/heart-healthy-living/sleep",
+        "site": ""
+      },
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "Sleep apnea symptoms",
+        "url": "https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Healthy sleep",
+        "url": "https://medlineplus.gov/healthysleep.html",
+        "site": ""
+      },
+      {
+        "author": "Centers for Disease Control and Prevention",
+        "date": "n.d.",
+        "title": "About sleep",
+        "url": "https://www.cdc.gov/sleep/about/index.html",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "quit-smoking",
@@ -661,7 +1010,37 @@
         "Itala ang mga tanong, cravings, at hadlang para mapag-usapan sa appointment. Alamin kung may dagdag na counseling o ibang treatment approach kapag hindi nakakatulong ang plano. Magtanong tungkol sa lokal na suporta sa halip na umasa sa telephone numbers mula sa ibang bansa. Bawat review ay pagkakataong gawing mas praktikal ang plano sa araw-araw."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Cardiac rehabilitation and quitting smoking",
+        "url": "https://www.heart.org/en/health-topics/cardiac-rehab/taking-care-of-yourself/cardiac-rehabilitation-and-quitting-smoking",
+        "site": ""
+      },
+      {
+        "author": "Centers for Disease Control and Prevention",
+        "date": "n.d.",
+        "title": "How to quit smoking",
+        "url": "https://www.cdc.gov/tobacco/campaign/tips/quit-smoking/index.html",
+        "site": ""
+      },
+      {
+        "author": "National Health Service",
+        "date": "n.d.",
+        "title": "Quit smoking",
+        "url": "https://www.nhs.uk/live-well/quit-smoking/",
+        "site": ""
+      },
+      {
+        "author": "World Health Organization",
+        "date": "n.d.",
+        "title": "Tobacco and nicotine",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "urgent-warning-signs",
@@ -725,7 +1104,44 @@
         "Habang kalmado, ipahanap sa kasama ang emergency instructions at medicine list. Tingnan kung malinaw at updated. Baguhin ang detalye kung lumipat o nagpalit ng numero. Paghahanda ito para makakilos agad, hindi para pag-isipan pa kung seryoso ang sintomas. Kapag may babala, humingi agad ng tulong."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "2024, December 12",
+        "title": "Warning signs of a heart attack",
+        "url": "https://www.heart.org/en/health-topics/heart-attack/warning-signs-of-a-heart-attack",
+        "site": ""
+      },
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Heart attack or sudden cardiac arrest?",
+        "url": "https://www.heart.org/en/health-topics/heart-attack/about-heart-attacks/heart-attack-or-sudden-cardiac-arrest-how-are-they-different",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Heart attack",
+        "url": "https://medlineplus.gov/heartattack.html",
+        "site": ""
+      },
+      {
+        "author": "National Health Service",
+        "date": "n.d.",
+        "title": "Heart attack",
+        "url": "https://www.nhs.uk/conditions/heart-attack/",
+        "site": ""
+      },
+      {
+        "author": "Department of the Interior and Local Government",
+        "date": "2026, September 25",
+        "title": "Dilg: Unified 911 hits 96.15% efficiency, handles 12.7 million calls",
+        "url": "https://pia.gov.ph/press-release/dilg-unified-911-hits-96-15-efficiency-handles-12-7-million-calls/",
+        "site": "Philippine Information Agency"
+      }
+    ]
   },
   {
     "id": "medical-appointments",
@@ -781,7 +1197,37 @@
         "Ilagay ang instructions sa madaling makita. I-update ang medicine list at kalendaryo. Kung may magkasalungat o malabong tagubilin, tawagan ang clinic. Huwag manghula o umasa sa payo mula sa hindi kaugnay na online discussion. Itago ang mga hindi nasagot na tanong para sa susunod na pag-uusap."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Preparing for medical visits",
+        "url": "https://www.heart.org/en/health-topics/cardiac-rehab/communicating-with-professionals/preparing-for-medical-visits",
+        "site": ""
+      },
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Working with your healthcare professional",
+        "url": "https://www.heart.org/en/health-topics/consumer-healthcare/doctor-appointments-questions-to-ask-your-doctor",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Talking with your doctor",
+        "url": "https://medlineplus.gov/talkingwithyourdoctor.html",
+        "site": ""
+      },
+      {
+        "author": "Agency for Healthcare Research and Quality",
+        "date": "n.d.",
+        "title": "Talk with your doctor",
+        "url": "https://www.ahrq.gov/questions/resources/diagnosis/step3.html",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "caregiver-support",
@@ -837,7 +1283,37 @@
         "Maglista ng tanong at pagbabago habang iginagalang ang gustong ibahagi ng pasyente. Itanong kung paano babaguhin ang suporta habang gumagaling. Maaaring hindi na kailangan sa susunod ang gawain ngayon. Patuloy na mag-usap at paghatian muli ang tungkulin. Dapat umangkop ang tulong sa pasyente nang hindi pinapabayaan ang kalusugan at kakayahan ng caregiver."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Communication tips for caregivers",
+        "url": "https://www.heart.org/en/health-topics/caregiver-support/communication-tips-for-caregivers",
+        "site": ""
+      },
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Finding balance as a caregiver",
+        "url": "https://www.heart.org/en/health-topics/caregiver-support/busy-caregivers",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Caregiver health",
+        "url": "https://medlineplus.gov/caregiverhealth.html",
+        "site": ""
+      },
+      {
+        "author": "National Institute on Aging",
+        "date": "n.d.",
+        "title": "Sharing caregiving responsibilities",
+        "url": "https://www.nia.nih.gov/health/caregiving/sharing-caregiving-responsibilities",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "bypass-home-recovery",
@@ -893,7 +1369,37 @@
         "Hindi kailangang kapareho ng ibang pasyente ang paggaling. Humingi ng gabay sa pag-unlad at susunod na ligtas na hakbang. Magpakonsulta kapag biglang lumala ang sintomas. Emergency care ang kailangan sa matinding hingal, pagkahimatay, o posibleng heart attack. Ibatay ang pagbalik sa araw-araw na buhay sa kondisyon at paggaling mo."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "National Health Service",
+        "date": "n.d.",
+        "title": "Recovering from a coronary artery bypass graft",
+        "url": "https://www.nhs.uk/tests-and-treatments/coronary-artery-bypass-graft/recovery/",
+        "site": ""
+      },
+      {
+        "author": "National Health Service",
+        "date": "n.d.",
+        "title": "Coronary artery bypass graft complications",
+        "url": "https://www.nhs.uk/tests-and-treatments/coronary-artery-bypass-graft/complications/",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Heart bypass surgery — discharge",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000102.htm",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Heart bypass surgery",
+        "url": "https://medlineplus.gov/ency/article/002946.htm",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "life-after-stent",
@@ -949,7 +1455,37 @@
         "Hindi ibig sabihin na ligtas na ang anumang chest symptoms dahil may stent. Kailangan ng urgent assessment ang bagong paninikip, matinding hingal, pagkahimatay, o posibleng heart attack. Huwag maghintay ng regular na review o email. Ihanda ang discharge emergency instructions at ipaliwanag sa pinagkakatiwalaang tao. Mahalaga ang follow-up sa recovery at mabilis na pagkilos sa seryosong pagbabago."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "National Health Service",
+        "date": "2022, October 4",
+        "title": "Recovery after coronary angioplasty and stent insertion",
+        "url": "https://www.nhs.uk/tests-and-treatments/coronary-angioplasty/recovery/",
+        "site": ""
+      },
+      {
+        "author": "Guy’s and St Thomas’ NHS Foundation Trust",
+        "date": "n.d.",
+        "title": "After coronary angioplasty",
+        "url": "https://www.guysandstthomas.nhs.uk/health-information/coronary-angioplasty/after-coronary-angioplasty",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Angioplasty and stent — heart — discharge",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000091.htm",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Angioplasty and stent placement — heart",
+        "url": "https://medlineplus.gov/ency/article/007473.htm",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "less-sodium",
@@ -1005,7 +1541,37 @@
         "Magdala ng recipe o food record. Itanong kung aling sodium source ang uunahin at paano susubaybayan ang pagbabago. Huwag itigil ang blood pressure o heart medicines dahil mas kaunti na ang asin. Suporta sa care plan ang pagkain. Pumili ng abot-kayang pagbabagong kayang ituloy. Isulat ang sangkap at pampalasa ng karaniwang ulam, dami ng taong kakain, at paraan ng paghahati. Itanong kung anong adjustment ang makakatulong. Mas malinaw ang totoong halimbawa kaysa pangakong magbabawas lang ng asin. Itala ang napagkasunduan."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "How to reduce sodium",
+        "url": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sodium/how-to-reduce-sodium",
+        "site": ""
+      },
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Shaking the salt habit",
+        "url": "https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure/shaking-the-salt-habit-to-lower-high-blood-pressure",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Low-salt diet",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000109.htm",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Cooking without salt",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000760.htm",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "food-labels",
@@ -1065,7 +1631,44 @@
         "Isaalang-alang ang sarsa, meryenda, at ibang pagkain kahit lower-sodium ang isang produkto. Mahalaga pa rin ang portion size kahit may nutrient claim. Magdala ng tanong at humingi ng halimbawa sa appointment. Sa pagsasanay, mas magiging madali ang paghahambing habang isinasaalang-alang ang eating plan, badyet, at medikal na payo."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "U.S. Food and Drug Administration",
+        "date": "n.d.",
+        "title": "What’s on the nutrition facts label",
+        "url": "https://www.fda.gov/food/nutrition-facts-label/whats-nutrition-facts-label",
+        "site": ""
+      },
+      {
+        "author": "U.S. Food and Drug Administration",
+        "date": "n.d.",
+        "title": "How to understand and use the nutrition facts label",
+        "url": "https://www.fda.gov/food/new-nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+        "site": ""
+      },
+      {
+        "author": "American Heart Association",
+        "date": "2026, March 31",
+        "title": "Diet and lifestyle recommendations",
+        "url": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/aha-diet-and-lifestyle-recommendations",
+        "site": ""
+      },
+      {
+        "author": "U.S. Food and Drug Administration",
+        "date": "n.d.",
+        "title": "Serving size on the nutrition facts label",
+        "url": "https://www.fda.gov/food/nutrition-facts-label/serving-size-nutrition-facts-label",
+        "site": ""
+      },
+      {
+        "author": "National Health Service",
+        "date": "n.d.",
+        "title": "Food labels",
+        "url": "https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/how-to-read-food-labels/",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "returning-to-work",
@@ -1121,7 +1724,37 @@
         "Alamin kung anong sintomas ang dahilan para huminto sa gawain at magpakonsulta. Kailangan ng agarang tulong ang bagong paninikip ng dibdib, matinding hingal, o pagkahimatay. Huwag piliting tapusin ang shift. Kung hindi gumagana ang plano, humingi ng review. Layunin ang ligtas at pangmatagalang pagbabalik habang patuloy ang paggamot. Isulat kung kailan ire-review at sino ang tatawagan kapag mabigat ang gawain. Itanong kung kailangan ng assessment bago dagdagan ang tungkulin. Ibahagi ang limitasyon sa nangangasiwa sa trabaho kung angkop. Dapat may paraan para baguhin ang plano, hindi petsa ng pagsisimula lang. Itago ang nakasulat na instructions."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Heart attack recovery questions and answers",
+        "url": "https://www.heart.org/en/health-topics/heart-attack/life-after-a-heart-attack/heart-attack-recovery-faqs",
+        "site": ""
+      },
+      {
+        "author": "European Society of Cardiology",
+        "date": "n.d.",
+        "title": "Returning to work after a heart attack",
+        "url": "https://www.healthy-heart.org/living-with-heart-disease/returning-to-work-after-a-heart-attack/",
+        "site": ""
+      },
+      {
+        "author": "National Health Service",
+        "date": "n.d.",
+        "title": "Coronary heart disease — recovery",
+        "url": "https://www.nhs.uk/conditions/coronary-heart-disease/recovery/",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Being active after your heart attack",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000093.htm",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "recovery-goals",
@@ -1177,6 +1810,36 @@
         "Itanong kung itutuloy, babaguhin, o papalitan ang layunin. Pansinin ang mahalagang pag-unlad, tulad ng pagkaunawa sa instructions o maagang paghingi ng tulong. Maaaring iba ang bilis ng recovery sa inaasahan. Iugnay ang plano sa kondisyon at priorities, nang may gabay ng team. Dapat makatulong ang plano sa araw-araw na desisyon mo. Hindi mo kailangang patunayan ang sarili sa pamamagitan ng pagpipilit. Ilarawan kung ano ang naging mas madali, tulad ng mabilis na paghanap ng medicine instructions o pagtatanong tungkol sa dating iniiwasang problema. Nakakatulong itong maunawaan ang mahalaga sa iyo at magpatuloy sa gawi o pumili ng ibang angkop na hakbang."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "Centers for Disease Control and Prevention",
+        "date": "n.d.",
+        "title": "How cardiac rehabilitation can help heal your heart",
+        "url": "https://www.cdc.gov/heart-disease/about/cardiac-rehabilitation-treatment.html",
+        "site": ""
+      },
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "DASH, living with DASH",
+        "url": "https://www.nhlbi.nih.gov/health/dash/living-with-dash",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Cardiac rehabilitation",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000791.htm",
+        "site": ""
+      },
+      {
+        "author": "British Heart Foundation",
+        "date": "n.d.",
+        "title": "What is cardiac rehabilitation?",
+        "url": "https://www.bhf.org.uk/informationsupport/support/cardiac-rehabilitation/what-is-cardiac-rehab",
+        "site": ""
+      }
+    ]
   }
 ]

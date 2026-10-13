@@ -57,7 +57,44 @@
       ]
     ],
     "photo": "ph-understanding-rehab",
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "2024, April 24",
+        "title": "What is cardiac rehabilitation?",
+        "url": "https://www.heart.org/en/health-topics/cardiac-rehab/what-is-cardiac-rehabilitation",
+        "site": ""
+      },
+      {
+        "author": "Centers for Disease Control and Prevention",
+        "date": "n.d.",
+        "title": "How cardiac rehabilitation can help heal your heart",
+        "url": "https://www.cdc.gov/heart-disease/about/cardiac-rehabilitation-treatment.html",
+        "site": ""
+      },
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "Heart treatments",
+        "url": "https://www.nhlbi.nih.gov/health/heart-treatments-procedures",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Cardiac rehabilitation",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000791.htm",
+        "site": ""
+      },
+      {
+        "author": "British Heart Foundation",
+        "date": "n.d.",
+        "title": "What is cardiac rehabilitation?",
+        "url": "https://www.bhf.org.uk/informationsupport/support/cardiac-rehabilitation/what-is-cardiac-rehab",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "safe-activity",
@@ -121,7 +158,44 @@
       ]
     ],
     "photo": "ph-therapy",
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "2024, April 24",
+        "title": "Develop a physical activity plan for you",
+        "url": "https://www.heart.org/en/health-topics/cardiac-rehab/getting-physically-active/develop-a-physical-activity-plan-for-you",
+        "site": ""
+      },
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "Get regular physical activity",
+        "url": "https://www.nhlbi.nih.gov/health/heart-healthy-living/physical-activity",
+        "site": ""
+      },
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "Physical activity benefits",
+        "url": "https://www.nhlbi.nih.gov/health/heart/physical-activity/benefits",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Being active when you have heart disease",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000094.htm",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Being active after your heart attack",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000093.htm",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "heart-healthy-food",
@@ -185,7 +259,44 @@
       ]
     ],
     "photo": "ph-food",
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "2026, March 31",
+        "title": "Diet and lifestyle recommendations",
+        "url": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/aha-diet-and-lifestyle-recommendations",
+        "site": ""
+      },
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "Choose heart-healthy foods",
+        "url": "https://www.nhlbi.nih.gov/health/heart-healthy-living/healthy-foods",
+        "site": ""
+      },
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "Living with DASH",
+        "url": "https://www.nhlbi.nih.gov/health/dash/living-with-dash",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Heart disease and diet",
+        "url": "https://medlineplus.gov/ency/article/002436.htm",
+        "site": ""
+      },
+      {
+        "author": "World Health Organization",
+        "date": "n.d.",
+        "title": "Healthy diet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "stress-recovery",
@@ -249,7 +360,44 @@
       ]
     ],
     "photo": "ph-wellbeing",
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Coping with feelings",
+        "url": "https://www.heart.org/en/health-topics/cardiac-rehab/taking-care-of-yourself/coping-with-feelings",
+        "site": ""
+      },
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Stress and heart health",
+        "url": "https://www.heart.org/en/healthy-living/healthy-lifestyle/stress-management/stress-and-heart-health",
+        "site": ""
+      },
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "Manage stress",
+        "url": "https://www.nhlbi.nih.gov/health/heart-healthy-living/manage-stress",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Stress",
+        "url": "https://medlineplus.gov/stress.html",
+        "site": ""
+      },
+      {
+        "author": "National Institute of Mental Health",
+        "date": "n.d.",
+        "title": "Caring for your mental health",
+        "url": "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "medicine-routine",
@@ -305,7 +453,37 @@
         "Before leaving the pharmacy or clinic, repeat the instructions in your own words. Ask whether the medicine should be taken with food and whether there are products you should avoid. Make sure you know whom to contact with questions. You do not need to memorize every detail. You need a reliable written plan and a way to check anything you do not understand."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Taking control of your medications",
+        "url": "https://www.heart.org/en/health-topics/cardiac-rehab/managing-your-medicines/taking-control-of-your-medicines",
+        "site": ""
+      },
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Managing your medications",
+        "url": "https://www.heart.org/en/health-topics/cardiac-rehab/managing-your-medicines",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Taking multiple medicines safely",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000883.htm",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Medicine safety — filling your prescription",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000766.htm",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "blood-pressure",
@@ -369,7 +547,44 @@
         "Bring the monitor instructions and your recent record to review, if you have been asked to check at home. Mark any reading that worried you and note what you did afterward. Ask whether your technique or schedule needs adjustment. The aim is a record your clinician can use, with clear instructions for responding to a concerning result. Check that you know whom to contact with further questions."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "Living with high blood pressure",
+        "url": "https://www.nhlbi.nih.gov/health/high-blood-pressure/living-with",
+        "site": ""
+      },
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "High blood pressure treatment",
+        "url": "https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment",
+        "site": ""
+      },
+      {
+        "author": "Centers for Disease Control and Prevention",
+        "date": "n.d.",
+        "title": "Managing high blood pressure",
+        "url": "https://www.cdc.gov/high-blood-pressure/living-with/index.html",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "High blood pressure",
+        "url": "https://medlineplus.gov/highbloodpressure.html",
+        "site": ""
+      },
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Home blood pressure monitoring",
+        "url": "https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "cholesterol",
@@ -429,7 +644,44 @@
         "Cholesterol care belongs within a broader plan for heart health. Ask how it connects with your other treatment goals and rehabilitation activities. Bring one clear question to the next appointment, such as whether your current plan is reaching the intended goal. Keep a record of the answer. Understanding why a step matters can help you follow through when daily routines become busy."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "2024, April 17",
+        "title": "What is blood cholesterol?",
+        "url": "https://www.nhlbi.nih.gov/health/blood-cholesterol",
+        "site": ""
+      },
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "Living with high cholesterol",
+        "url": "https://www.nhlbi.nih.gov/health/blood-cholesterol/living-with",
+        "site": ""
+      },
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "Therapeutic lifestyle changes",
+        "url": "https://www.nhlbi.nih.gov/health/TLC-Therapeutic-Lifestyle-Changes-Lower-Cholesterol",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Cholesterol",
+        "url": "https://medlineplus.gov/cholesterol.html",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Cholesterol levels — what you need to know",
+        "url": "https://medlineplus.gov/cholesterollevelswhatyouneedtoknow.html",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "heart-failure-tracking",
@@ -493,7 +745,44 @@
         "A note could describe a familiar task, the change you noticed, and the day it began. For example, explain that you now need to stop during a route you previously managed comfortably. Include whether the change is getting worse. Ask the team how soon they want to hear about that pattern. This helps turn a vague concern into a clear conversation, while keeping urgent symptoms on the emergency pathway rather than in a routine diary. Keep the record accessible for the person helping with your care."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "What is heart failure?",
+        "url": "https://www.heart.org/en/health-topics/heart-failure/what-is-heart-failure",
+        "site": ""
+      },
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Managing heart failure symptoms",
+        "url": "https://www.heart.org/en/health-topics/heart-failure/warning-signs-of-heart-failure/managing-heart-failure-symptoms",
+        "site": ""
+      },
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Physical changes to report",
+        "url": "https://www.heart.org/en/health-topics/heart-failure/living-with-heart-failure-and-managing-advanced-hf/physical-changes-to-report-for-heart-failure",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Heart failure",
+        "url": "https://medlineplus.gov/heartfailure.html",
+        "site": ""
+      },
+      {
+        "author": "National Health Service",
+        "date": "n.d.",
+        "title": "Heart failure",
+        "url": "https://www.nhs.uk/conditions/heart-failure/",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "diabetes-heart",
@@ -549,7 +838,37 @@
         "Your next useful action could be confirming an A1C appointment, asking about exercise precautions, or reviewing a medicine list. Write down the answer and who will help you act on it. You do not have to solve every issue at once. You do need a coordinated plan that considers your whole health, with a clear way to report problems and ask for support."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "Centers for Disease Control and Prevention",
+        "date": "n.d.",
+        "title": "Diabetes and your heart",
+        "url": "https://www.cdc.gov/diabetes/diabetes-complications/diabetes-and-your-heart.html",
+        "site": ""
+      },
+      {
+        "author": "American Diabetes Association",
+        "date": "n.d.",
+        "title": "Diabetes can affect your heart",
+        "url": "https://diabetes.org/health-wellness/diabetes-and-your-heart/diabetes-affect-your-heart",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Diabetic heart disease",
+        "url": "https://medlineplus.gov/diabeticheartdisease.html",
+        "site": ""
+      },
+      {
+        "author": "National Institute of Diabetes and Digestive and Kidney Diseases",
+        "date": "n.d.",
+        "title": "Diabetes, heart disease, and stroke",
+        "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/heart-disease-stroke",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "sleep-recovery",
@@ -605,7 +924,37 @@
         "At your next visit, explain the main problem: falling asleep, staying asleep, waking breathless, or struggling to stay awake during the day. Ask what the next step should be and when to follow up. Better sleep care begins with understanding the cause. A useful plan should address symptoms, treatment, and the realities of your home routine. If you try an agreed sleep change, ask how long to try it and what would prompt an earlier clinical review. Keep the focus on the problem you described rather than tracking every possible detail. If the plan is not helping, explain that honestly. The team can decide whether another assessment is needed instead of leaving you to experiment alone."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "2022, March 24",
+        "title": "Get enough good-quality sleep",
+        "url": "https://www.nhlbi.nih.gov/health/heart-healthy-living/sleep",
+        "site": ""
+      },
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "Sleep apnea symptoms",
+        "url": "https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Healthy sleep",
+        "url": "https://medlineplus.gov/healthysleep.html",
+        "site": ""
+      },
+      {
+        "author": "Centers for Disease Control and Prevention",
+        "date": "n.d.",
+        "title": "About sleep",
+        "url": "https://www.cdc.gov/sleep/about/index.html",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "quit-smoking",
@@ -661,7 +1010,37 @@
         "Keep a note of questions, cravings, and barriers to discuss at the next appointment. Ask whether additional counseling or a different treatment approach is available if the current plan is not helping. Ask about support available locally; phone numbers on overseas websites may not serve the Philippines. Each review is a chance to make the plan more workable for your everyday life."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Cardiac rehabilitation and quitting smoking",
+        "url": "https://www.heart.org/en/health-topics/cardiac-rehab/taking-care-of-yourself/cardiac-rehabilitation-and-quitting-smoking",
+        "site": ""
+      },
+      {
+        "author": "Centers for Disease Control and Prevention",
+        "date": "n.d.",
+        "title": "How to quit smoking",
+        "url": "https://www.cdc.gov/tobacco/campaign/tips/quit-smoking/index.html",
+        "site": ""
+      },
+      {
+        "author": "National Health Service",
+        "date": "n.d.",
+        "title": "Quit smoking",
+        "url": "https://www.nhs.uk/live-well/quit-smoking/",
+        "site": ""
+      },
+      {
+        "author": "World Health Organization",
+        "date": "n.d.",
+        "title": "Tobacco and nicotine",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/tobacco",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "urgent-warning-signs",
@@ -725,7 +1104,44 @@
         "During a calm moment, ask a household member to locate the emergency instructions and medicine list. Check that the details are readable and current. If you change address or telephone number, update the plan. This preparation helps you act promptly when serious symptoms occur. When they occur, act promptly."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "2024, December 12",
+        "title": "Warning signs of a heart attack",
+        "url": "https://www.heart.org/en/health-topics/heart-attack/warning-signs-of-a-heart-attack",
+        "site": ""
+      },
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Heart attack or sudden cardiac arrest?",
+        "url": "https://www.heart.org/en/health-topics/heart-attack/about-heart-attacks/heart-attack-or-sudden-cardiac-arrest-how-are-they-different",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Heart attack",
+        "url": "https://medlineplus.gov/heartattack.html",
+        "site": ""
+      },
+      {
+        "author": "National Health Service",
+        "date": "n.d.",
+        "title": "Heart attack",
+        "url": "https://www.nhs.uk/conditions/heart-attack/",
+        "site": ""
+      },
+      {
+        "author": "Department of the Interior and Local Government",
+        "date": "2026, September 25",
+        "title": "Dilg: Unified 911 hits 96.15% efficiency, handles 12.7 million calls",
+        "url": "https://pia.gov.ph/press-release/dilg-unified-911-hits-96-15-efficiency-handles-12-7-million-calls/",
+        "site": "Philippine Information Agency"
+      }
+    ]
   },
   {
     "id": "medical-appointments",
@@ -781,7 +1197,37 @@
         "After the visit, put the instructions in a place you can find. Update your medicine list and calendar if needed. If two instructions conflict or an important detail is unclear, contact the clinic for clarification. Do not fill the gap with a guess or advice from an unrelated online discussion. Keep unresolved questions ready for the next conversation so they do not disappear from view."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Preparing for medical visits",
+        "url": "https://www.heart.org/en/health-topics/cardiac-rehab/communicating-with-professionals/preparing-for-medical-visits",
+        "site": ""
+      },
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Working with your healthcare professional",
+        "url": "https://www.heart.org/en/health-topics/consumer-healthcare/doctor-appointments-questions-to-ask-your-doctor",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Talking with your doctor",
+        "url": "https://medlineplus.gov/talkingwithyourdoctor.html",
+        "site": ""
+      },
+      {
+        "author": "Agency for Healthcare Research and Quality",
+        "date": "n.d.",
+        "title": "Talk with your doctor",
+        "url": "https://www.ahrq.gov/questions/resources/diagnosis/step3.html",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "caregiver-support",
@@ -837,7 +1283,37 @@
         "Keep a short list of questions or changes to discuss, while respecting the patient’s wishes about what is shared. Ask how the support plan should change as recovery progresses. A task needed this week may not be needed later. Keep the conversation open and review responsibilities together. Useful support adapts to the person’s needs without overlooking the health and limits of the caregiver."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Communication tips for caregivers",
+        "url": "https://www.heart.org/en/health-topics/caregiver-support/communication-tips-for-caregivers",
+        "site": ""
+      },
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Finding balance as a caregiver",
+        "url": "https://www.heart.org/en/health-topics/caregiver-support/busy-caregivers",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Caregiver health",
+        "url": "https://medlineplus.gov/caregiverhealth.html",
+        "site": ""
+      },
+      {
+        "author": "National Institute on Aging",
+        "date": "n.d.",
+        "title": "Sharing caregiving responsibilities",
+        "url": "https://www.nia.nih.gov/health/caregiving/sharing-caregiving-responsibilities",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "bypass-home-recovery",
@@ -893,7 +1369,37 @@
         "Recovery does not need to match another patient’s experience. Ask your team to help you recognize progress and decide what is safe next. If symptoms suddenly worsen, seek advice promptly. For severe breathlessness, fainting, or suspected heart attack symptoms, obtain emergency care. Let your condition and healing guide your return to daily life."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "National Health Service",
+        "date": "n.d.",
+        "title": "Recovering from a coronary artery bypass graft",
+        "url": "https://www.nhs.uk/tests-and-treatments/coronary-artery-bypass-graft/recovery/",
+        "site": ""
+      },
+      {
+        "author": "National Health Service",
+        "date": "n.d.",
+        "title": "Coronary artery bypass graft complications",
+        "url": "https://www.nhs.uk/tests-and-treatments/coronary-artery-bypass-graft/complications/",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Heart bypass surgery — discharge",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000102.htm",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Heart bypass surgery",
+        "url": "https://medlineplus.gov/ency/article/002946.htm",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "life-after-stent",
@@ -949,7 +1455,37 @@
         "A stent does not make future chest symptoms harmless. New chest pressure, severe breathlessness, fainting, or suspected heart attack symptoms require urgent assessment. Do not wait for a routine review or email reply. Keep the discharge emergency instructions accessible and explain them to someone you trust. Ongoing care supports recovery, while prompt action remains essential when a serious change occurs."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "National Health Service",
+        "date": "2022, October 4",
+        "title": "Recovery after coronary angioplasty and stent insertion",
+        "url": "https://www.nhs.uk/tests-and-treatments/coronary-angioplasty/recovery/",
+        "site": ""
+      },
+      {
+        "author": "Guy’s and St Thomas’ NHS Foundation Trust",
+        "date": "n.d.",
+        "title": "After coronary angioplasty",
+        "url": "https://www.guysandstthomas.nhs.uk/health-information/coronary-angioplasty/after-coronary-angioplasty",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Angioplasty and stent — heart — discharge",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000091.htm",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Angioplasty and stent placement — heart",
+        "url": "https://medlineplus.gov/ency/article/007473.htm",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "less-sodium",
@@ -1005,7 +1541,37 @@
         "Bring a usual recipe or a short food record to your next visit. Ask which sodium source deserves attention first and how you will review progress. Do not stop prescribed blood pressure or heart medicines because you are eating less salt. Food changes support your care plan. Choose an affordable change you can maintain. Write down the ingredients and seasonings in one regular dish. Include how many people it serves and how you usually divide it. Bring this to your nutrition discussion and ask which change would help. A real example makes advice more concrete than a general promise to use less salt. Note the agreed change."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "How to reduce sodium",
+        "url": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/sodium/how-to-reduce-sodium",
+        "site": ""
+      },
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Shaking the salt habit",
+        "url": "https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure/shaking-the-salt-habit-to-lower-high-blood-pressure",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Low-salt diet",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000109.htm",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Cooking without salt",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000760.htm",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "food-labels",
@@ -1065,7 +1631,44 @@
         "A lower-sodium product still needs to be considered alongside sauces, snacks, and other foods. A nutrient claim does not make portion size irrelevant. Write down one label question and ask for a worked example at your next appointment. With practice, you can make comparisons more confidently while keeping your broader eating plan, budget, and medical advice in view."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "U.S. Food and Drug Administration",
+        "date": "n.d.",
+        "title": "What’s on the nutrition facts label",
+        "url": "https://www.fda.gov/food/nutrition-facts-label/whats-nutrition-facts-label",
+        "site": ""
+      },
+      {
+        "author": "U.S. Food and Drug Administration",
+        "date": "n.d.",
+        "title": "How to understand and use the nutrition facts label",
+        "url": "https://www.fda.gov/food/new-nutrition-facts-label/how-understand-and-use-nutrition-facts-label",
+        "site": ""
+      },
+      {
+        "author": "American Heart Association",
+        "date": "2026, March 31",
+        "title": "Diet and lifestyle recommendations",
+        "url": "https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/aha-diet-and-lifestyle-recommendations",
+        "site": ""
+      },
+      {
+        "author": "U.S. Food and Drug Administration",
+        "date": "n.d.",
+        "title": "Serving size on the nutrition facts label",
+        "url": "https://www.fda.gov/food/nutrition-facts-label/serving-size-nutrition-facts-label",
+        "site": ""
+      },
+      {
+        "author": "National Health Service",
+        "date": "n.d.",
+        "title": "Food labels",
+        "url": "https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/how-to-read-food-labels/",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "returning-to-work",
@@ -1121,7 +1724,37 @@
         "Ask which symptoms should make you stop a task and seek advice. New chest pressure, severe breathlessness, or fainting requires urgent attention rather than an effort to finish the shift. If the return plan is not working, contact your clinician for review. The goal is a safe, sustainable return to responsibilities, with treatment and recovery still supported as your routine changes. Write down when your return plan will be checked and who should be contacted if a task is too demanding. Ask whether you need another assessment before duties increase. Share the agreed limits with the person arranging your work when appropriate. A return plan should include a way to change course, as well as a start date. Keep the written instructions."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "American Heart Association",
+        "date": "n.d.",
+        "title": "Heart attack recovery questions and answers",
+        "url": "https://www.heart.org/en/health-topics/heart-attack/life-after-a-heart-attack/heart-attack-recovery-faqs",
+        "site": ""
+      },
+      {
+        "author": "European Society of Cardiology",
+        "date": "n.d.",
+        "title": "Returning to work after a heart attack",
+        "url": "https://www.healthy-heart.org/living-with-heart-disease/returning-to-work-after-a-heart-attack/",
+        "site": ""
+      },
+      {
+        "author": "National Health Service",
+        "date": "n.d.",
+        "title": "Coronary heart disease — recovery",
+        "url": "https://www.nhs.uk/conditions/coronary-heart-disease/recovery/",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Being active after your heart attack",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000093.htm",
+        "site": ""
+      }
+    ]
   },
   {
     "id": "recovery-goals",
@@ -1177,6 +1810,36 @@
         "At the next visit, ask whether to continue, adjust, or replace the goal. Notice progress that matters to you, such as understanding an instruction or asking for help early. Recovery can move at a different pace from what you expected. Keep the plan tied to your condition and priorities, with the team guiding changes. Goals should help you make daily decisions without creating pressure to prove yourself. At review, explain what the agreed step made easier in your day. Perhaps you found the medicine instructions quickly or asked a question you had been avoiding. That example helps the team understand what matters to you. It also gives you a reason to continue the habit or choose another suitable step."
       ]
     ],
-    "updated": "2026-10-13"
+    "updated": "2026-10-13",
+    "references": [
+      {
+        "author": "Centers for Disease Control and Prevention",
+        "date": "n.d.",
+        "title": "How cardiac rehabilitation can help heal your heart",
+        "url": "https://www.cdc.gov/heart-disease/about/cardiac-rehabilitation-treatment.html",
+        "site": ""
+      },
+      {
+        "author": "National Heart, Lung, and Blood Institute",
+        "date": "n.d.",
+        "title": "DASH, living with DASH",
+        "url": "https://www.nhlbi.nih.gov/health/dash/living-with-dash",
+        "site": ""
+      },
+      {
+        "author": "MedlinePlus",
+        "date": "n.d.",
+        "title": "Cardiac rehabilitation",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000791.htm",
+        "site": ""
+      },
+      {
+        "author": "British Heart Foundation",
+        "date": "n.d.",
+        "title": "What is cardiac rehabilitation?",
+        "url": "https://www.bhf.org.uk/informationsupport/support/cardiac-rehabilitation/what-is-cardiac-rehab",
+        "site": ""
+      }
+    ]
   }
 ]

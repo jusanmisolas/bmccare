@@ -243,3 +243,49 @@ footer{background:var(--cream)}
 .article .guide-purpose{font-size:14px;line-height:1.7;color:var(--muted);margin:0 0 22px}
 .guide-purpose a{color:var(--teal);white-space:nowrap}.photo-note{font-size:13px;line-height:1.6;color:var(--muted)}
 @media print{.emergency-banner{display:none}}
+
+/* Numbered APA references retain the guide’s citation mapping. */
+.sources li{padding-left:1.5em;text-indent:-1.5em;margin-bottom:18px}.sources a{overflow-wrap:anywhere}
+
+.brandrow .brand .brand-subtitle{display:block;font-size:12px;font-weight:400;line-height:1.5;color:var(--muted);margin-top:6px;letter-spacing:0}.hero .eyebrow{letter-spacing:1px;line-height:1.7;display:block;max-width:480px}
+@media(max-width:650px){.brandrow .brand .brand-subtitle{font-size:10px;line-height:1.45;margin-top:5px}.hero .eyebrow{font-size:11px;letter-spacing:.8px}}
+
+.newsitem h3 a{color:var(--ink);text-decoration:none}.newsitem h3 a:hover{text-decoration:underline;color:var(--teal)}.news-category{font-size:12px;color:var(--accent-teal);margin:14px 0 0}.news-read{color:var(--teal);font-size:14px;font-weight:600}.news-library{margin-top:30px}.sample-news-note{border-left:3px solid var(--teal);padding:15px 18px;background:var(--cream);font-size:14px!important}.newsitem{display:flex;flex-direction:column}.newsitem .news-read{margin-top:auto;padding-top:18px}.newsitem .placeholder{align-self:flex-start}
+
+/* Final readability pass for small screens. */
+@media(max-width:760px){.starter-cards{grid-template-columns:minmax(0,1fr)}.starter-cards .card:last-child{grid-column:auto;max-width:none}.starter-cards .cardbody{padding:22px}.starter-cards .cardbody h3{font-size:20px}.starter-cards .resourcephoto img{height:240px}}
+@media(max-width:650px){.navgroup{min-width:0}.navsubmenu a{overflow-wrap:break-word}.visit-actions{gap:10px}.library-status{align-items:flex-start}.guide-purpose a{white-space:normal}#updates-form .btn{width:100%;white-space:normal}.starter-cards .resourcephoto img{height:210px}}
+
+.worksheet-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:24px 0}.worksheet-grid .panel{padding:22px}.worksheet-grid h3{margin-top:0}.checklist-link{display:block;margin:12px 0}@media(max-width:700px){.worksheet-grid{grid-template-columns:1fr}}
+
+/* First-visit steps use the section width instead of an empty left column. */
+#getting-started .split{grid-template-columns:minmax(0,1fr);gap:26px}
+#getting-started .split>div:first-child{max-width:760px}
+#getting-started .split>div:first-child p{margin-bottom:0}
+#getting-started .panel{padding:0;border:0;background:transparent}
+#getting-started .steps{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;margin:0 0 24px}
+#getting-started .steps li{padding:64px 24px 24px;border:1px solid var(--line);border-radius:8px;background:#fbf7ef}
+#getting-started .steps li:before{left:24px;top:20px;width:30px;height:30px;background:#edf5f3;border-color:#cfdfdd;color:#356c68}
+#getting-started .steps strong{font-size:18px;line-height:1.35}
+#getting-started .steps p{font-size:15px;line-height:1.6;margin:10px 0 0}
+#getting-started .checklist-link{display:inline-block;font-size:15px;margin:0 24px 8px 0;line-height:1.6}
+#getting-started .visit-actions{margin-top:14px;padding-top:20px;border-top:1px solid var(--line)}
+@media(max-width:700px){#getting-started .steps{grid-template-columns:minmax(0,1fr);gap:12px;margin-bottom:20px}#getting-started .steps li{padding:20px 20px 20px 66px}#getting-started .steps li:before{left:20px;top:20px}#getting-started .checklist-link{display:block;margin:0 0 12px}#getting-started .split{gap:22px}}
+
+/* Final interaction and spacing polish. */
+#nav>a,#nav .navsubmenu a{border-radius:4px;transition:color .16s,background-color .16s}
+#nav a[aria-current]{color:var(--teal);text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:7px}
+#nav .navsubmenu a[aria-current]{background:var(--light)}
+.btn,.chip{min-height:44px;transition:background-color .16s,border-color .16s,box-shadow .16s;line-height:1.5}
+.btn:active{box-shadow:inset 0 2px 4px #0002}
+.btn:focus-visible,.chip:focus-visible{outline-offset:4px}
+.newsitem h3{line-height:1.35}.news-read{display:inline-flex;align-items:center;min-height:44px}
+.newsitem{border-radius:6px;overflow:hidden}.newsitem .news-read{align-self:flex-start}
+#search,#updates-form>input{font-size:16px}#search:focus,#updates-form>input:focus{border-color:var(--teal)}
+.worksheet-grid .panel{display:flex;flex-direction:column;gap:10px}.worksheet-grid h3{font-size:19px;line-height:1.4;margin-bottom:0}.worksheet-grid a{margin-top:auto;display:inline-flex;align-items:center;min-height:44px;color:var(--teal);font-size:14px}
+.checklist-page label{display:flex;gap:12px;align-items:flex-start;cursor:pointer;padding:10px 0;min-height:44px}
+.checklist-page .article>p{margin:0;border-bottom:1px solid var(--line)}
+#contact a{overflow-wrap:anywhere}.footergrid a{display:inline-block;min-height:32px;padding:4px 0}
+@media(hover:hover){#nav>a:hover,#nav .navsubmenu a:hover{background:var(--light)}.newsitem h3 a:hover,.news-read:hover,.checklist-link:hover{color:#702338}.worksheet-grid .panel:hover{border-color:#c6a6af}}
+@media(max-width:650px){.visit-actions .btn{min-height:46px}.guide-contents summary{min-height:48px}.footergrid a{min-height:44px;padding:9px 0}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation:none!important;transition:none!important}.resourcephoto:hover img{transform:none}}
