@@ -1,2 +1,3 @@
-Packaged 2026-10-14T04:51:28.352906+08:00
-Includes article sharing, latest unit header, and print/PDF credits.
+Packaged 2026-10-14T07:07:16.464664+08:00
+Latest UI/UX refinements, copyedited bilingual resources, article sharing and thumbnails, and print/PDF unit credits.
+Upload the extracted contents including the articles folder.
