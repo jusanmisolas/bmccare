@@ -19,11 +19,11 @@
       ],
       [
         "Maghanda ng mga tanong",
-        "Bago makipag-ugnayan, isulat ang pangunahing alalahanin mo. Maaari ka na bang maglakad papunta sa palengke, bumalik sa trabaho, o umakyat ng hagdan? Itanong ito sa doktor. Alamin kung kailangan ng referral, anong records ang dadalhin, at anong gawain ang dapat iwasan habang naghihintay ng assessment. Ilagay sa isang folder ang discharge summary, mga bagong test result, at listahan ng gamot. Isama ang pangalan at dose ng bawat gamot at anumang allergy. Tawagan ang unit para kumpirmahin ang mga dokumento, appointment, bayad, iskedyul, at maaaring tulong. Huwag ipagpalagay na pareho ang mga patakaran dito at sa programang nabasa sa website mula sa ibang bansa."
+        "Bago makipag-ugnayan, isulat ang pangunahing alalahanin mo. Maaari ka na bang maglakad papunta sa palengke, bumalik sa trabaho, o umakyat ng hagdan? Itanong ito sa doktor. Alamin kung kailangan ng referral, anong records ang dadalhin, at anong gawain ang dapat iwasan habang naghihintay ng assessment. Ilagay sa isang folder ang discharge summary, mga bagong test result, at listahan ng gamot. Isama ang pangalan at dose ng bawat gamot at anumang allergy. Tawagan ang unit para kumpirmahin ang mga dokumento, appointment, bayad, schedule, at available na tulong. Huwag ipagpalagay na pareho ang mga patakaran dito at sa programang nabasa sa website mula sa ibang bansa."
       ],
       [
         "Sabihin kung ano ang mahalaga sa iyo",
-        "Ipaalam ang gastos sa biyahe, oras ng trabaho, tungkulin sa pag-aalaga, o hirap sa pag-unawa sa instructions. Maaaring makaapekto ang mga ito sa pagdalo. Humingi ng paliwanag sa mga salitang nauunawaan mo. Maaari kang magsama ng pinagkakatiwalaang kapamilya para tumulong sa pag-alala sa plano. Dalhin ang listahan ng mga tanong sa bawat pagbisita."
+        "Ipaalam ang gastos sa biyahe, oras ng trabaho, tungkulin sa pag-aalaga, o hirap sa pag-unawa sa instructions. Maaaring makaapekto ang mga ito sa pagdalo. Humingi ng paliwanag na madali mong maintindihan. Maaari kang magsama ng pinagkakatiwalaang kapamilya para tumulong sa pag-alala sa plano. Dalhin ang listahan ng mga tanong sa bawat pagbisita."
       ],
       [
         "Alamin kung kailan kailangan ng agarang tulong",
@@ -56,7 +56,8 @@
         "https://www.bhf.org.uk/informationsupport/support/cardiac-rehabilitation/what-is-cardiac-rehab"
       ]
     ],
-    "photo": "ph-understanding-rehab"
+    "photo": "ph-understanding-rehab",
+    "updated": "2026-10-13"
   },
   {
     "id": "safe-activity",
@@ -119,7 +120,8 @@
         "https://medlineplus.gov/ency/patientinstructions/000093.htm"
       ]
     ],
-    "photo": "ph-therapy"
+    "photo": "ph-therapy",
+    "updated": "2026-10-13"
   },
   {
     "id": "heart-healthy-food",
@@ -182,7 +184,8 @@
         "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
       ]
     ],
-    "photo": "ph-food"
+    "photo": "ph-food",
+    "updated": "2026-10-13"
   },
   {
     "id": "stress-recovery",
@@ -216,7 +219,7 @@
       ],
       [
         "Ipaliwanag sa pamilya ang kailangan mo",
-        "Sabihin kung anong suporta ang makakatulong. Maaaring kasama sa pagbisita, tulong sa pagkain, o oras para makinig. Hilinging igalang ang care plan sa halip na piliting dagdagan ang ehersisyo o sabihing pag-aalala lang ang sintomas. Kailangan ng medikal na tulong ang bagong pananakit ng dibdib o matinding hirap sa paghinga, kahit may anxiety ka rin."
+        "Sabihin kung anong suporta ang makakatulong. Maaaring kailangan mo ng kasama sa pagbisita, tulong sa paghahanda ng pagkain, o taong makikinig. Hilinging igalang ang care plan sa halip na piliting dagdagan ang ehersisyo o sabihing pag-aalala lang ang sintomas. Kailangan ng medikal na tulong ang bagong pananakit ng dibdib o matinding hirap sa paghinga, kahit may anxiety ka rin."
       ],
       [
         "Iangkop ang suporta sa iyo",
@@ -245,7 +248,8 @@
         "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health"
       ]
     ],
-    "photo": "ph-wellbeing"
+    "photo": "ph-wellbeing",
+    "updated": "2026-10-13"
   },
   {
     "id": "medicine-routine",
@@ -282,7 +286,7 @@
       ],
       [
         "Itanong ang gagawin sa na-miss na dose",
-        "Hindi pare-pareho ang tamang hakbang para sa lahat ng gamot. Itanong sa pharmacist ang instructions para sa bawat reseta at itago kasama ng listahan. Huwag basta magdagdag ng dose para bumawi. Kung hindi sigurado kung nainom na ang gamot, humingi ng payo. Sabihin kung madalas sumasabay ang iskedyul sa pagkain, trabaho, o tulog. [1]"
+        "Hindi pare-pareho ang tamang hakbang para sa lahat ng gamot. Itanong sa pharmacist ang instructions para sa bawat reseta at itago kasama ng listahan. Huwag basta magdagdag ng dose para bumawi. Kung hindi sigurado kung nainom na ang gamot, humingi ng payo. Sabihin kung mahirap sundin ang oras ng gamot dahil sa pagkain, trabaho, o tulog. [1]"
       ],
       [
         "Gumamit ng angkop na paalala",
@@ -298,9 +302,10 @@
       ],
       [
         "Umalis na malinaw ang plano",
-        "Bago umalis sa pharmacy o clinic, ulitin ang instructions sa sarili mong salita. Itanong kung kailangang may kasabay na pagkain at kung may dapat iwasang produkto. Alamin kung sino ang kakausapin kapag may tanong. Hindi kailangang kabisaduhin ang lahat. Kailangan mo ng malinaw na nakasulat na plano at paraan para kumpirmahin ang hindi nauunawaan."
+        "Bago umalis sa pharmacy o clinic, ulitin ang instructions sa sarili mong salita. Itanong kung kailangang inumin ang gamot kasabay ng pagkain at kung may dapat iwasang produkto. Alamin kung sino ang kakausapin kapag may tanong. Hindi kailangang kabisaduhin ang lahat. Kailangan mo ng malinaw na nakasulat na plano at paraan para kumpirmahin ang hindi nauunawaan."
       ]
-    ]
+    ],
+    "updated": "2026-10-13"
   },
   {
     "id": "blood-pressure",
@@ -363,7 +368,8 @@
         "Maghanda para sa follow-up",
         "Kung pinagsusukat sa bahay, dalhin ang instructions at bagong tala. Markahan ang reading na ikinabahala mo at itala ang ginawa pagkatapos. Itanong kung kailangang baguhin ang paraan o oras ng pagsukat. Layunin nitong magkaroon ng kapaki-pakinabang na tala at malinaw na hakbang para sa nakababahalang resulta. Alamin kung sino ang tatawagan sa ibang tanong."
       ]
-    ]
+    ],
+    "updated": "2026-10-13"
   },
   {
     "id": "cholesterol",
@@ -396,7 +402,7 @@
     "sections": [
       [
         "Alamin muna ang basics",
-        "Kailangan ng katawan ang cholesterol, ngunit maaaring magdulot ng plaque sa arteries ang hindi malusog na levels. Maaari nitong dagdagan ang panganib ng heart attack o stroke. Karaniwang walang malinaw na babala sa pakiramdam ang high cholesterol. Nakakatulong ang blood test at assessment ng kabuuang kalusugan mo para malaman ng doktor kung anong care ang kailangan mo. [1,4]"
+        "Kailangan ng katawan ang cholesterol, ngunit maaaring magdulot ng plaque sa arteries ang hindi malusog na levels. Maaari nitong dagdagan ang panganib ng heart attack o stroke. Karaniwang walang kapansin-pansing sintomas ang high cholesterol. Nakakatulong ang blood test at assessment ng kabuuang kalusugan mo para malaman ng doktor kung anong care ang kailangan mo. [1,4]"
       ],
       [
         "Talakayin ang resulta sa doktor",
@@ -408,7 +414,7 @@
       ],
       [
         "Alamin ang treatment options",
-        "Maaaring pagsamahin ang pagbabago sa pagkain, angkop na activity, at gamot. Kung may iniresetang cholesterol medicine, itanong ang inaasahang benepisyo at side effects na dapat ipaalam. Sabihin ang iba pang gamot at supplements. Huwag itigil ang reseta dahil gumanda ang test result. Maaaring ibig sabihin nito na gumagana ang paggamot, hindi na hindi mo na ito kailangan. [2]"
+        "Maaaring pagsamahin ang pagbabago sa pagkain, angkop na activity, at gamot. Kung may iniresetang cholesterol medicine, itanong ang inaasahang benepisyo at side effects na dapat ipaalam. Sabihin ang iba pang gamot at supplements. Huwag itigil ang reseta dahil gumanda ang test result. Maaaring mas mabuti ang resulta dahil gumagana ang treatment. Hindi ito nangangahulugang hindi mo na kailangan ang gamot. [2]"
       ],
       [
         "Pumili ng praktikal na pagbabago sa pagkain",
@@ -416,13 +422,14 @@
       ],
       [
         "Magplano ng follow-up tests",
-        "Alamin kung kailan ang susunod na blood test at kung may paghahanda. Itago ang resulta at itala ang pagbabago sa gamot. Sundin ang iskedyul sa halip na paulit-ulit na magpa-test nang walang payo. Sabihin agad kung hindi kaya ang gastos o pagdalo. Kapag may bagong resulta, isulat ang petsa at itanong kung kailan ito tatalakayin. Huwag ipagpalagay na isang pagkain o lakad lang ang sanhi ng pagbabago. Itanong kung magpapatuloy, magre-review, o kailangan ng dagdag na pagsusuri. Itago ang sagot kasama ng report. Kung maraming clinic ang nagbibigay ng payo, alamin kung sino ang nag-uugnay ng cholesterol treatment at follow-up. [2]"
+        "Alamin kung kailan ang susunod na blood test at kung may paghahanda. Itago ang resulta at itala ang pagbabago sa gamot. Sundin ang iskedyul sa halip na paulit-ulit na magpa-test nang walang payo. Sabihin agad kung hindi kaya ang gastos o pagdalo. Kapag may bagong resulta, isulat ang petsa at itanong kung kailan ito tatalakayin. Huwag ipagpalagay na isang pagkain o lakad lang ang sanhi ng pagbabago. Itanong kung itutuloy ang treatment, babaguhin ang plano, o kailangan ng dagdag na tests. Itago ang sagot kasama ng report. Kung maraming clinic ang nagbibigay ng payo, alamin kung sino ang nag-uugnay ng cholesterol treatment at follow-up. [2]"
       ],
       [
         "Higit pa sa isang numero",
         "Bahagi ng mas malawak na pangangalaga sa puso ang cholesterol care. Itanong ang ugnayan nito sa ibang treatment goals at rehabilitation. Magdala ng malinaw na tanong, gaya ng kung naaabot ng plano ang target. Itala ang sagot. Mas madaling sundin ang hakbang kapag alam mo kung bakit ito mahalaga, kahit abala sa araw-araw."
       ]
-    ]
+    ],
+    "updated": "2026-10-13"
   },
   {
     "id": "heart-failure-tracking",
@@ -485,7 +492,8 @@
         "Isulat nang malinaw ang sintomas",
         "Sabihin kung anong karaniwang gawain ang naapektuhan, ano ang nagbago, at kailan ito nagsimula. Halimbawa, kailangan mo nang huminto sa rutang dati ay madali mong nalalakad. Isama kung lumalala ito. Alamin kung gaano kaaga dapat ipaalam ang ganitong pattern. Mas malinaw ito kaysa malabong paglalarawan. Ang urgent symptoms ay kailangan pa rin ng agarang tulong, hindi tala lang. Ilagay ang records sa lugar na madaling mahanap ng tumutulong sa iyo."
       ]
-    ]
+    ],
+    "updated": "2026-10-13"
   },
   {
     "id": "diabetes-heart",
@@ -534,13 +542,14 @@
       ],
       [
         "I-coordinate ang gamot at appointments",
-        "Panatilihing updated ang reseta at ipakita sa bawat pagbisita. Alamin kung sino ang namamahala sa pagbabago at follow-up. Kung tila magkasalungat ang instructions, ipaklaro sa mga doktor. Magplano ng refill at tests bago maubos o makaligtaan ang appointment. Sabihin kung mahirap ang sabay na gastos sa diabetes at puso. Pagsamahin ang bagong diabetes results, heart clinic notes, at instructions. Dalhin sa parehong team. Markahan ang tanong na kailangan ng magkaugnay na sagot, tulad ng epekto ng bagong gamot sa activity o pagkain. Bago umalis, kumpirmahin kung sino ang sasagot, paano matatanggap ang sagot, at kailan ang follow-up."
+        "Panatilihing updated ang listahan ng gamot at ipakita sa bawat pagbisita. Alamin kung sino ang namamahala sa pagbabago at follow-up. Kung tila magkasalungat ang instructions, ipaklaro sa mga doktor. Magplano ng refill bago maubos ang gamot at magpa-schedule ng tests bago ang takdang petsa. Sabihin kung mahirap ang sabay na gastos sa diabetes at puso. Pagsamahin ang bagong diabetes results, heart clinic notes, at instructions. Dalhin sa parehong team. Markahan ang tanong na kailangan ng magkaugnay na sagot, tulad ng epekto ng bagong gamot sa activity o pagkain. Bago umalis, kumpirmahin kung sino ang sasagot, paano matatanggap ang sagot, at kailan ang follow-up."
       ],
       [
         "Pumili ng malinaw na susunod na hakbang",
         "Maaaring kumpirmahin ang A1C appointment, itanong ang exercise precautions, o i-review ang medicine list. Itala ang sagot at kung sino ang tutulong. Hindi kailangang solusyonan ang lahat nang sabay. Kailangan ng planong tumitingin sa buong kalusugan at malinaw na paraan para mag-ulat ng problema at humingi ng suporta."
       ]
-    ]
+    ],
+    "updated": "2026-10-13"
   },
   {
     "id": "sleep-recovery",
@@ -585,7 +594,7 @@
       ],
       [
         "Huwag balewalain ang problema sa paghinga",
-        "Kailangan ng medical assessment ang paggising na hinihingal o pagpalit ng posisyon dahil mahirap huminga, lalo na kung may heart failure. Ilarawan ang bagong nararanasan sa halip na ipagpalagay na anxiety lang. Emergency ang matinding hirap sa paghinga, paninikip ng dibdib, o pagkahimatay. Huwag maghintay matapos ang diary o subukan muna ang bagong routine bago humingi ng tulong."
+        "Kailangan ng medical assessment ang paggising na hinihingal o pagpalit ng posisyon dahil mahirap huminga, lalo na kung may heart failure. Ilarawan ang bagong nararanasan sa halip na ipagpalagay na anxiety lang. Emergency ang matinding hirap sa paghinga, paninikip ng dibdib, o pagkahimatay. Huwag hintaying matapos ang sleep diary o subukan muna ang bagong routine bago humingi ng tulong."
       ],
       [
         "Magtanong bago gumamit ng pampatulog",
@@ -593,9 +602,10 @@
       ],
       [
         "Magdala ng tiyak na tanong",
-        "Sabihin kung ang problema ay hirap makatulog, madalas na paggising, paggising na hinihingal, o sobrang antok sa araw. Alamin ang susunod na hakbang at follow-up. Nagsisimula ang tamang pangangalaga sa pag-unawa sa sanhi. Dapat isaalang-alang ang sintomas, paggamot, at routine sa bahay. Kung may susubukang pagbabago, itanong kung gaano katagal at kailan kailangan ng mas maagang review. Ituon ang tala sa pangunahing problema. Sabihin nang tapat kung walang tulong ang plano. Ang team ang magdedesisyon kung kailangan ng ibang assessment."
+        "Sabihin kung ang problema ay hirap makatulog, madalas na paggising, paggising na hinihingal, o sobrang antok sa araw. Alamin ang susunod na hakbang at follow-up. Nagsisimula ang tamang pangangalaga sa pag-unawa sa sanhi. Dapat isaalang-alang ang sintomas, paggamot, at routine sa bahay. Kung may susubukang pagbabago, itanong kung gaano katagal at kailan kailangan ng mas maagang review. Ituon ang tala sa pangunahing problema. Sabihin kung hindi nakakatulong ang plano. Ang team ang magdedesisyon kung kailangan ng ibang assessment."
       ]
-    ]
+    ],
+    "updated": "2026-10-13"
   },
   {
     "id": "quit-smoking",
@@ -648,9 +658,10 @@
       ],
       [
         "I-monitor ang progress",
-        "Itala ang tanong, cravings, at hadlang para sa appointment. Alamin kung may dagdag na counseling o ibang treatment approach kapag hindi nakakatulong ang plano. Magtanong tungkol sa lokal na suporta sa halip na umasa sa telephone numbers mula sa ibang bansa. Bawat review ay pagkakataong gawing mas praktikal ang plano sa araw-araw."
+        "Itala ang mga tanong, cravings, at hadlang para mapag-usapan sa appointment. Alamin kung may dagdag na counseling o ibang treatment approach kapag hindi nakakatulong ang plano. Magtanong tungkol sa lokal na suporta sa halip na umasa sa telephone numbers mula sa ibang bansa. Bawat review ay pagkakataong gawing mas praktikal ang plano sa araw-araw."
       ]
-    ]
+    ],
+    "updated": "2026-10-13"
   },
   {
     "id": "urgent-warning-signs",
@@ -674,12 +685,16 @@
       [
         "NHS: Heart Attack",
         "https://www.nhs.uk/conditions/heart-attack/"
+      ],
+      [
+        "Philippine Information Agency / DILG: Unified 911 Emergency Hotline",
+        "https://pia.gov.ph/press-release/dilg-unified-911-hits-96-15-efficiency-handles-12-7-million-calls/"
       ]
     ],
     "sections": [
       [
         "Kumilos kapag may babala",
-        "Maaaring magdulot ang heart attack ng paninikip, pressure, bigat, o sakit sa dibdib. Maaari ring may sakit sa braso, likod, leeg, panga, o tiyan. Maaaring may hingal, malamig na pawis, pagduduwal, o pagkahilo. Iba-iba ang sintomas at hindi laging may biglaang pagbagsak. Kung posibleng heart attack, humingi agad ng emergency medical help kahit hindi ka sigurado. [1,3]"
+        "Maaaring magdulot ang heart attack ng paninikip, pressure, bigat, o sakit sa dibdib. Maaari ring may sakit sa braso, likod, leeg, panga, o tiyan. Maaaring may hingal, malamig na pawis, pagduduwal, o pagkahilo. Iba-iba ang sintomas at hindi laging may biglaang pagbagsak. Kung posibleng heart attack, humingi agad ng emergency medical help kahit hindi ka sigurado. [1,3] Sa Pilipinas, tumawag sa 911 para sa emergency. Huwag maghintay ng sagot mula sa unit. [5]"
       ],
       [
         "Huwag maghintay ng sagot sa website",
@@ -709,7 +724,8 @@
         "Tiyaking madaling makita ang impormasyon",
         "Habang kalmado, ipahanap sa kasama ang emergency instructions at medicine list. Tingnan kung malinaw at updated. Baguhin ang detalye kung lumipat o nagpalit ng numero. Paghahanda ito para makakilos agad, hindi para pag-isipan pa kung seryoso ang sintomas. Kapag may babala, humingi agad ng tulong."
       ]
-    ]
+    ],
+    "updated": "2026-10-13"
   },
   {
     "id": "medical-appointments",
@@ -758,13 +774,14 @@
       ],
       [
         "Tiyaking naunawaan mo",
-        "Ulitin sa sarili mong salita ang susunod na hakbang. Kumpirmahin ang medicine changes, test preparation, activity advice, at follow-up dates. Alamin ang sintomas na dapat itawag at sino ang tatawagan. Humingi ng nakasulat na instructions. Kung may kasamang magtatala, itanong kung puwede siyang sumama. Humingi muna ng pahintulot bago mag-record. [1,4]"
+        "Ulitin sa sarili mong salita ang susunod na hakbang. Kumpirmahin ang medicine changes, test preparation, activity advice, at follow-up dates. Alamin ang sintomas na dapat itawag at sino ang tatawagan. Humingi ng nakasulat na instructions. Kung may kasamang magtatala, itanong kung puwede siyang sumama. Humingi muna ng pahintulot bago mag-record. [1,4] Bago umalis sa appointment, alamin ang susunod na gawain, sino ang gagawa, at kailan. Itanong kung paano matatanggap ang test results at ano ang gagawin kung walang balita sa referral. Itago kasama ng notes. Maiiwasan ang matagal na paghihintay o pag-aakalang naayos na ang hakbang na hindi pa pala natatapos."
       ],
       [
         "Balikan ang plano sa bahay",
-        "Ilagay ang instructions sa madaling makita. I-update ang medicine list at kalendaryo. Kung may magkasalungat o malabong tagubilin, tawagan ang clinic. Huwag manghula o umasa sa payo mula sa hindi kaugnay na online discussion. Itago ang mga hindi nasagot na tanong para sa susunod na pag-uusap. Bago umalis sa appointment, alamin ang susunod na gawain, sino ang gagawa, at kailan. Itanong kung paano matatanggap ang test results at ano ang gagawin kung walang balita sa referral. Itago kasama ng notes. Maiiwasan ang matagal na paghihintay o pag-aakalang naayos na ang hakbang na hindi pa pala natatapos."
+        "Ilagay ang instructions sa madaling makita. I-update ang medicine list at kalendaryo. Kung may magkasalungat o malabong tagubilin, tawagan ang clinic. Huwag manghula o umasa sa payo mula sa hindi kaugnay na online discussion. Itago ang mga hindi nasagot na tanong para sa susunod na pag-uusap."
       ]
-    ]
+    ],
+    "updated": "2026-10-13"
   },
   {
     "id": "caregiver-support",
@@ -797,7 +814,7 @@
       ],
       [
         "Unawain ang care plan",
-        "Sa pahintulot ng pasyente, hilinging ipaliwanag ng team ang instructions na kailangan mo para makatulong. Alamin ang sintomas na dapat itawag at alin ang emergency. Ihanda ang medicine information at contact details. Kung hindi nauunawaan ang gawain, humingi ng demonstration o nakasulat na paliwanag. Huwag baguhin ang gamot o dagdagan ang ehersisyo sa labas ng prescribed plan. [1]"
+        "Sa pahintulot ng pasyente, hilinging ipaliwanag ng team kung paano ka makakatulong sa care plan. Alamin ang sintomas na dapat itawag at alin ang emergency. Ihanda ang medicine information at contact details. Kung hindi nauunawaan ang gawain, humingi ng demonstration o nakasulat na paliwanag. Huwag baguhin ang gamot o dagdagan ang ehersisyo sa labas ng prescribed plan. [1]"
       ],
       [
         "Paghatian ang mga tungkulin",
@@ -809,17 +826,18 @@
       ],
       [
         "Suportahan ang ligtas na paggawa ng mga bagay nang mag-isa",
-        "Alamin ang kayang gawin mag-isa at ang kailangan pa ng tulong. Team ang dapat gumabay sa rehabilitation, hindi pressure ng pamilya. Huwag buhatin o ilipat ang pasyente sa paraang hindi itinuro. Sabihin ang hirap sa hagdan, banyo, o bahay para maipaliwanag ang mas ligtas na routine."
+        "Alamin ang kayang gawin mag-isa at ang kailangan pa ng tulong. Sundin ang gabay ng rehabilitation team. Huwag pilitin ang pasyente dahil sa pressure ng pamilya. Huwag buhatin o ilipat ang pasyente sa paraang hindi itinuro. Sabihin ang hirap sa hagdan, banyo, o bahay para maipaliwanag ang mas ligtas na routine."
       ],
       [
         "Pansinin ang sarili mong pangangailangan",
-        "Nangangailangan ng oras at lakas ang caregiving. Humingi ng tiyak na tulong, gaya ng pagbili ng gamot o paghahanda ng pagkain. Ituloy ang sariling medical appointments hangga't maaari. Sabihin kung pagod na o nahihirapan emosyonal. Makakatulong ang suporta para mapangalagaan ka rin at maging mas maayos ang caregiving. Hindi mo kailangang akuin ang lahat. [2,3]"
+        "Nangangailangan ng oras at lakas ang caregiving. Humingi ng tiyak na tulong, gaya ng pagbili ng gamot o paghahanda ng pagkain. Ituloy ang sariling medical appointments hangga't maaari. Sabihin kung pagod ka na o nahihirapan sa emosyonal na bahagi ng caregiving. Makakatulong ang suporta para mapangalagaan ka rin at maging mas maayos ang caregiving. Hindi mo kailangang akuin ang lahat. [2,3]"
       ],
       [
         "Maghanda sa susunod na review",
         "Maglista ng tanong at pagbabago habang iginagalang ang gustong ibahagi ng pasyente. Itanong kung paano babaguhin ang suporta habang gumagaling. Maaaring hindi na kailangan sa susunod ang gawain ngayon. Patuloy na mag-usap at paghatian muli ang tungkulin. Dapat umangkop ang tulong sa pasyente nang hindi pinapabayaan ang kalusugan at kakayahan ng caregiver."
       ]
-    ]
+    ],
+    "updated": "2026-10-13"
   },
   {
     "id": "bypass-home-recovery",
@@ -856,7 +874,7 @@
       ],
       [
         "Talakayin ang sakit at pagod",
-        "Maaaring may sakit at fatigue habang gumagaling, ngunit dapat ipaliwanag kung ano ang inaasahan at ano ang nakababahala. Sundin ang prescribed pain relief at magtanong bago magdagdag ng produkto. Ipaalam ang bagong sakit, lumalala, o hindi makontrol. Hindi lahat ng chest pain ay galing sa operasyon. Maaaring kailangan ng emergency assessment sa paninikip ng dibdib o matinding hingal. [1,2]"
+        "Maaaring may sakit at fatigue habang gumagaling, ngunit dapat ipaliwanag kung ano ang inaasahan at ano ang nakababahala. Sundin ang prescribed pain relief at magtanong bago magdagdag ng produkto. Ipaalam ang pananakit na bago, lumalala, o hindi makontrol. Hindi lahat ng chest pain ay galing sa operasyon. Maaaring kailangan ng emergency assessment sa paninikip ng dibdib o matinding hingal. [1,2]"
       ],
       [
         "Linawin ang limitasyon sa pagkilos",
@@ -874,7 +892,8 @@
         "Dahan-dahan sa pagbabalik sa mga gawain",
         "Hindi kailangang kapareho ng ibang pasyente ang paggaling. Humingi ng gabay sa pag-unlad at susunod na ligtas na hakbang. Magpakonsulta kapag biglang lumala ang sintomas. Emergency care ang kailangan sa matinding hingal, pagkahimatay, o posibleng heart attack. Ibatay ang pagbalik sa araw-araw na buhay sa kondisyon at paggaling mo."
       ]
-    ]
+    ],
+    "updated": "2026-10-13"
   },
   {
     "id": "life-after-stent",
@@ -923,13 +942,14 @@
       ],
       [
         "Dumalo sa follow-up",
-        "Dalhin ang tanong at updated medicine list. Ipaalam ang sintomas, problema sa access site, at hirap sa pagbili ng gamot. Itanong kung kailangan ng tests at paano makikipag-ugnayan sa pagitan ng visits. Kung hindi alam kung sino ang namamahala sa problema, itanong nang diretso. Nakakaiwas sa pagpasa-pasa ang malinaw na contact. Alamin kung saan makukuha ang procedure summary at humingi ng kopya kung mayroon. Dalhin kapag may ibang doktor na magre-review. Itala ang hindi nasagot na tanong. Mas kapaki-pakinabang ang kumpletong impormasyon kaysa pagsubok na tandaan ang bawat detalye, lalo na kung maraming propesyonal ang kausap."
+        "Dalhin ang tanong at updated medicine list. Ipaalam ang sintomas, problema sa access site, at hirap sa pagbili ng gamot. Itanong kung kailangan ng tests at paano makikipag-ugnayan sa pagitan ng visits. Kung hindi alam kung sino ang namamahala sa problema, itanong nang diretso. Mas madaling maasikaso ang alalahanin kung alam mo kung sino ang tatawagan. Alamin kung saan makukuha ang procedure summary at humingi ng kopya kung mayroon. Dalhin kapag may ibang doktor na magre-review. Itala ang hindi nasagot na tanong. Mas kapaki-pakinabang ang kumpletong impormasyon kaysa pagsubok na tandaan ang bawat detalye, lalo na kung maraming propesyonal ang kausap."
       ],
       [
         "Alamin ang gagawin sa emergency",
         "Hindi ibig sabihin na ligtas na ang anumang chest symptoms dahil may stent. Kailangan ng urgent assessment ang bagong paninikip, matinding hingal, pagkahimatay, o posibleng heart attack. Huwag maghintay ng regular na review o email. Ihanda ang discharge emergency instructions at ipaliwanag sa pinagkakatiwalaang tao. Mahalaga ang follow-up sa recovery at mabilis na pagkilos sa seryosong pagbabago."
       ]
-    ]
+    ],
+    "updated": "2026-10-13"
   },
   {
     "id": "less-sodium",
@@ -974,7 +994,7 @@
       ],
       [
         "Magplano bago mamili",
-        "Pumili muna ng isang produktong ihahambing sa halip na palitan ang lahat. Tingnan ang gastos, serving size, sodium, at kung gagamitin ang alternatibo. Hindi awtomatikong healthy ang buong meal ang produktong mas mababa sa sodium. Isaalang-alang ang buong food plan. Kung walang lower-sodium na mabili, itanong ang paghahanda gamit ang available na sangkap."
+        "Pumili muna ng isang produktong ihahambing sa halip na palitan ang lahat. Tingnan ang gastos, serving size, sodium, at kung gagamitin ang alternatibo. Hindi ibig sabihin na healthy na ang buong meal dahil mas mababa sa sodium ang isang produkto. Isaalang-alang ang buong food plan. Kung walang lower-sodium na mabili, itanong ang paghahanda gamit ang available na sangkap."
       ],
       [
         "Magtanong kapag kumakain sa labas",
@@ -984,7 +1004,8 @@
         "Gawing kayang sundin ang pagbabago",
         "Magdala ng recipe o food record. Itanong kung aling sodium source ang uunahin at paano susubaybayan ang pagbabago. Huwag itigil ang blood pressure o heart medicines dahil mas kaunti na ang asin. Suporta sa care plan ang pagkain. Pumili ng abot-kayang pagbabagong kayang ituloy. Isulat ang sangkap at pampalasa ng karaniwang ulam, dami ng taong kakain, at paraan ng paghahati. Itanong kung anong adjustment ang makakatulong. Mas malinaw ang totoong halimbawa kaysa pangakong magbabawas lang ng asin. Itala ang napagkasunduan."
       ]
-    ]
+    ],
+    "updated": "2026-10-13"
   },
   {
     "id": "food-labels",
@@ -1017,14 +1038,14 @@
     "sections": [
       [
         "Unahin ang serving size",
-        "Karaniwang para sa isang serving ang nutrition panel, hindi sa buong pakete. Tingnan kung ilang serving ang laman at ihambing sa daming kakainin. Hindi rekomendasyon ng tamang portion para sa iyo ang serving sa label. Iba-iba ang format sa bansa at produkto. Suriin ang units at batayan bago maghambing. [1,2,4]"
+        "Karaniwang para sa isang serving ang nutrition panel, hindi sa buong pakete. Tingnan kung ilang serving ang laman at ihambing sa daming kakainin. Hindi rekomendasyon ng tamang portion para sa iyo ang serving sa label. Iba-iba ang format sa bansa at produkto. Suriin ang units at batayan bago maghambing ng mga produkto. [1,2,4]"
       ],
       [
         "Ihambing ang parehong dami",
         "Maaaring magkaiba ang serving sizes ng dalawang produkto. Ang isa ay per portion, ang isa ay per fixed weight. Nakakalito ang paghahambing kung hindi mapapansin ito. Humingi ng demonstration gamit ang karaniwang binibili. Dapat parehong dami ng pagkain ang batayan, kasama ang daming talagang kakainin. Gumamit ng calculator kung makakatulong."
       ],
       [
-        "Hanapin ang mahalagang nutrients",
+        "Hanapin ang mga nutrients na mahalaga sa iyo",
         "Mahalagang talakayin ang sodium, saturated fat, at added sugars para sa puso. Maaari ring mahalaga ang fiber. Huwag calories lang o claim sa harap ang batayan. Maaaring kailangan mong bantayan ang ibang nutrients ayon sa kondisyon. Itanong kung anong values ang pinakamahalaga at paano isasama sa food plan. [1,3,5]"
       ],
       [
@@ -1043,7 +1064,8 @@
         "Tingnan ang buong meal",
         "Isaalang-alang ang sarsa, meryenda, at ibang pagkain kahit lower-sodium ang isang produkto. Mahalaga pa rin ang portion size kahit may nutrient claim. Magdala ng tanong at humingi ng halimbawa sa appointment. Sa pagsasanay, mas magiging madali ang paghahambing habang isinasaalang-alang ang eating plan, badyet, at medikal na payo."
       ]
-    ]
+    ],
+    "updated": "2026-10-13"
   },
   {
     "id": "returning-to-work",
@@ -1088,7 +1110,7 @@
       ],
       [
         "Isama ang tungkulin sa bahay",
-        "Mabigat din ang housework at caregiving. Itanong ang pagbuhat ng pinamili o bata, paglilinis, at iba pang gawain. Hindi ibig sabihin na kaya na ang lahat dahil nakauwi. Talakayin ang pansamantalang tulong. Mas madaling ipaliwanag ang paghahati ng gawain kung may nakasulat na limitasyon."
+        "Mabigat din ang housework at caregiving. Itanong ang pagbubuhat ng mga pinamili o bata, paglilinis, at iba pang gawain. Hindi ibig sabihin na kaya na ang lahat dahil nakauwi. Talakayin ang pansamantalang tulong. Mas madaling ipaliwanag ang paghahati ng gawain kung may nakasulat na limitasyon."
       ],
       [
         "Sabihin ang takot at pressure",
@@ -1096,9 +1118,10 @@
       ],
       [
         "Mag-review sa halip na pilitin",
-        "Alamin ang sintomas na dapat huminto at magpakonsulta. Kailangan ng agarang tulong ang bagong paninikip ng dibdib, matinding hingal, o pagkahimatay. Huwag piliting tapusin ang shift. Kung hindi gumagana ang plano, humingi ng review. Layunin ang ligtas at pangmatagalang pagbabalik habang patuloy ang paggamot. Isulat kung kailan ire-review at sino ang tatawagan kapag mabigat ang gawain. Itanong kung kailangan ng assessment bago dagdagan ang tungkulin. Ibahagi ang limitasyon sa nangangasiwa sa trabaho kung angkop. Dapat may paraan para baguhin ang plano, hindi petsa ng pagsisimula lang. Itago ang nakasulat na instructions."
+        "Alamin kung anong sintomas ang dahilan para huminto sa gawain at magpakonsulta. Kailangan ng agarang tulong ang bagong paninikip ng dibdib, matinding hingal, o pagkahimatay. Huwag piliting tapusin ang shift. Kung hindi gumagana ang plano, humingi ng review. Layunin ang ligtas at pangmatagalang pagbabalik habang patuloy ang paggamot. Isulat kung kailan ire-review at sino ang tatawagan kapag mabigat ang gawain. Itanong kung kailangan ng assessment bago dagdagan ang tungkulin. Ibahagi ang limitasyon sa nangangasiwa sa trabaho kung angkop. Dapat may paraan para baguhin ang plano, hindi petsa ng pagsisimula lang. Itago ang nakasulat na instructions."
       ]
-    ]
+    ],
+    "updated": "2026-10-13"
   },
   {
     "id": "recovery-goals",
@@ -1143,16 +1166,17 @@
       ],
       [
         "Gumamit ng simpleng tala",
-        "Itala ang napagkasunduan at kung nasunod. Isama ang tanong at hadlang sa halip na gawing scorecard. Sa activity, gamitin ang paraan ng pagsukat na ipinayo. Huwag mag-imbento ng target na hindi pinayagan. Ipakita sa review para maunawaan ang pag-unlad at dahilan kung bakit naging mahirap."
+        "Itala ang napagkasunduan at kung nasunod. Isama ang mga tanong at hadlang sa halip na gawing scorecard. Sa activity, gamitin ang paraan ng pagsukat na ipinayo. Huwag mag-imbento ng target na hindi pinayagan. Ipakita sa review para maunawaan ang pag-unlad at dahilan kung bakit naging mahirap."
       ],
       [
         "Maghanda sa pagkaantala",
-        "Maaaring maantala dahil sa sakit, biyahe, o hindi pagdalo. Alamin ang gagawin at sino ang kakausapin. Huwag doblehin ang susunod na ehersisyo para bumawi maliban kung ipinayo. Kung hindi na angkop ang goal, sabihin at baguhin. Impormasyon ito tungkol sa kalagayan mo, hindi dahilan para umiwas sa follow-up."
+        "Maaaring maantala dahil sa sakit, biyahe, o hindi pagdalo. Alamin kung ano ang gagawin at sino ang kakausapin. Huwag doblehin ang susunod na ehersisyo para bumawi maliban kung ipinayo. Kung hindi na angkop ang goal, sabihin at baguhin. Impormasyon ito tungkol sa kalagayan mo, hindi dahilan para umiwas sa follow-up."
       ],
       [
         "Mag-review kasama ang team",
         "Itanong kung itutuloy, babaguhin, o papalitan ang layunin. Pansinin ang mahalagang pag-unlad, tulad ng pagkaunawa sa instructions o maagang paghingi ng tulong. Maaaring iba ang bilis ng recovery sa inaasahan. Iugnay ang plano sa kondisyon at priorities, nang may gabay ng team. Dapat makatulong ang plano sa araw-araw na desisyon mo. Hindi mo kailangang patunayan ang sarili sa pamamagitan ng pagpipilit. Ilarawan kung ano ang naging mas madali, tulad ng mabilis na paghanap ng medicine instructions o pagtatanong tungkol sa dating iniiwasang problema. Nakakatulong itong maunawaan ang mahalaga sa iyo at magpatuloy sa gawi o pumili ng ibang angkop na hakbang."
       ]
-    ]
+    ],
+    "updated": "2026-10-13"
   }
 ]

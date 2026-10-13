@@ -1,0 +1,4 @@
+Latest source commit: 7aa255abb2b9b30687a942519653add3523eae74
+Source update: 13 October 2026, 8:35 PM Philippine time
+Package issued: 14 October 2026
+Includes About us dropdown, emergency 911 banner, content standards, resource photos, reading menus and search reset.

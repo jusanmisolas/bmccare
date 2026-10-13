@@ -17,9 +17,10 @@ if(printParams.get('checklist')==='1'){
  const article=items.find(a=>a.id===printId);if(!article)throw Error('missing');
  document.title=article.title+' | Cardiac Rehabilitation Portal';
  document.getElementById('back-link').href='index.html#article/'+encodeURIComponent(article.id);
+ const purpose=printLanguage==='fil'?'Para sa patient education. Sundin ang payo ng healthcare team mo.':'Patient education. Follow your healthcare team’s advice.';
  const paragraphs=article.sections.map(([heading,body])=>'<section><h2>'+escapePrint(heading)+'</h2><p>'+escapePrint(body).replace(/\[([\d,]+)\]/g,(_,numbers)=>'<sup>'+numbers.split(',').map(n=>'<a href="#reference-'+n+'">['+n+']</a>').join(' ')+'</sup>')+'</p></section>').join('');
  const sources=article.sources.map(([title,url],i)=>'<li id="reference-'+(i+1)+'"><a href="'+escapePrint(url)+'">'+escapePrint(title)+'</a><span class="source-url">'+escapePrint(url)+'</span></li>').join('');
- document.getElementById('guide').innerHTML='<article><p class="portal">Cardiac Rehabilitation Portal</p><p class="category">'+escapePrint(printLanguage==='fil'?(printCategories[article.category]||article.category):article.category)+'</p><h1>'+escapePrint(article.title)+'</h1>'+paragraphs+'<h2>'+(printLanguage==='fil'?'Mga reference':'Sources')+'</h2><ol class="sources">'+sources+'</ol><p class="meta">'+(printLanguage==='fil'?'Huling binuksan ang mga reference noong 13 October 2026.':'Sources accessed 13 October 2026.')+'</p></article>';
+ document.getElementById('guide').innerHTML='<article><p class="portal">Cardiac Rehabilitation Portal</p><p class="category">'+escapePrint(printLanguage==='fil'?(printCategories[article.category]||article.category):article.category)+'</p><h1>'+escapePrint(article.title)+'</h1><p class="meta">'+(printLanguage==='fil'?'Na-update noong 13 October 2026':'Updated 13 October 2026')+'</p><p>'+purpose+'</p>'+paragraphs+'<h2>'+(printLanguage==='fil'?'Mga reference':'Sources')+'</h2><ol class="sources">'+sources+'</ol><p class="meta">'+(printLanguage==='fil'?'Huling binuksan ang mga reference noong 13 October 2026.':'Sources accessed 13 October 2026.')+'</p></article>';
  printButton.disabled=false;
  // Printing runs from a standalone page, outside any embedded preview frame.
  window.setTimeout(()=>window.print(),300);
