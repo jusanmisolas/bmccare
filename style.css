@@ -457,8 +457,8 @@ footer{background:#f3eeeb;border-top:0}
 .headphoto img{object-position:center 22%}.staffphoto img{object-position:center 28%}#team .teamgrid .staff:nth-child(1) .staffphoto img{object-position:45% center}#team .teamgrid .staff:nth-child(2) .staffphoto img{object-position:35% 30%}
 
 /* Approved portal logo, fitted without altering the supplied artwork. */
-.brandrow .portal-brand{display:flex;flex-direction:column;align-items:flex-start;gap:4px;flex:0 1 380px}.portal-logo-window{display:block;position:relative;width:100%;max-width:380px;aspect-ratio:3.65;overflow:hidden}.portal-logo{position:absolute;display:block;width:100%;height:auto;max-width:none;left:0;top:-32%}.portal-unit-label{font-size:11px;font-weight:400;color:var(--muted);line-height:1.4;margin-left:4px}.portal-footer-brand .portal-logo-window{max-width:300px}.brandrow{padding:14px 0}.footergrid .portal-footer-brand p{margin-top:12px}
-@media(max-width:650px){.brandrow .portal-brand{flex:1 1 auto;min-width:0;max-width:300px}.portal-unit-label{font-size:10px}.brandrow{gap:12px;padding:12px 0}.portal-logo-window{aspect-ratio:3.65}.header-controls{flex-shrink:0}}
+.brandrow .portal-brand{display:flex;flex-direction:column;align-items:flex-start;gap:4px;flex:0 1 380px}.portal-logo-window{display:block;position:relative;width:100%;max-width:380px;aspect-ratio:1854 / 648;overflow:hidden}.portal-logo{position:absolute;display:block;width:104.854369%;height:auto;max-width:none;left:-3.667746%;top:-15.432099%}.portal-unit-label{font-size:11px;font-weight:400;color:var(--muted);line-height:1.4;margin-left:4px}.portal-footer-brand .portal-logo-window{max-width:300px}.brandrow{padding:14px 0}.footergrid .portal-footer-brand p{margin-top:12px}
+@media(max-width:650px){.brandrow .portal-brand{flex:1 1 auto;min-width:0;max-width:300px}.portal-unit-label{font-size:10px}.brandrow{gap:12px;padding:12px 0}.portal-logo-window{aspect-ratio:1854 / 648}.header-controls{flex-shrink:0}}
 @media(max-width:380px){.brandrow{gap:8px}.portal-unit-label{font-size:9px}}
 
 /* Proportional branding and a calmer page rhythm. */
@@ -471,3 +471,9 @@ footer{background:#f3eeeb;border-top:0}
 /* Language stays in the menu when the navigation becomes compact. */
 .menu-language-choice{display:none}
 @media(max-width:900px){.header-controls .language-pill{display:none}.header-controls{flex-direction:row;align-items:center}.brandrow #menu{display:block;min-height:44px;padding:10px 14px}.brandrow{align-items:center}#nav{display:none}#nav.open{display:flex;flex-direction:column;align-items:stretch;gap:2px;padding:8px 0 16px}#nav.open>a{display:block;padding:12px 8px;min-height:44px}.navgroup{width:100%}.navgroup summary{padding:12px 8px;min-height:44px}.navsubmenu{position:static;box-shadow:none;margin:0 0 8px;width:100%;min-width:0;border:0;background:#faf7f1}.navsubmenu a{display:block;padding:12px 16px}.menu-language-choice{display:flex;justify-content:space-between;align-items:center;gap:16px;padding:8px 8px 16px;margin-bottom:8px;border-bottom:1px solid var(--line);font-size:14px;font-weight:600}.menu-language-choice select{min-height:44px;width:150px;max-width:55%;padding:9px 12px;border:1px solid #d8bec7;border-radius:6px;background:#fff;color:var(--ink);font:16px/1.4 Arial,sans-serif}.menu-language-choice select:focus-visible{outline:3px solid var(--teal);outline-offset:3px}}
+
+/* Compact topic filters on phones. */
+@media(max-width:650px){.searchrow{gap:8px;margin:20px 0 12px}.searchrow input{margin-bottom:4px}.searchrow .chip{min-height:36px;padding:7px 11px;font-size:13px;line-height:1.4;flex:0 1 auto;max-width:100%;white-space:normal}}
+
+/* Project attribution and purpose beneath the footer logo. */
+.footergrid .portal-footer-brand{flex-direction:column;align-items:flex-start;gap:16px}.portal-footer-note{width:100%;max-width:420px;font:400 14px/1.65 Arial,Helvetica,sans-serif;color:var(--muted)}.footergrid .portal-footer-note p{margin:0}.footergrid .portal-footer-note p+p{margin-top:12px}
