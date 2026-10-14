@@ -1,3 +1,2 @@
-Packaged 2026-10-14T07:07:16.464664+08:00
-Latest UI/UX refinements, copyedited bilingual resources, article sharing and thumbnails, and print/PDF unit credits.
-Upload the extracted contents including the articles folder.
+Packaged 2026-10-14T08:21:19.133215+08:00
+Latest site files, including all completed UI/UX and content updates. Upload all extracted contents including the articles folder.
