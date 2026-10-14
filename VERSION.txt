@@ -1,6 +1,4 @@
-BMC Cardiac Rehabilitation Portal
-Packaged: 2026-10-14T19:33:35+08:00 (Asia/Manila)
-Published version: 98
-Source commit: c1fa58283159bbad2a0f935dde14cac198d5581a
-Website files verified against the published deployment archive.
-ZIP timestamps use Philippine local time with 2-second precision.
+Published version: 104
+Source commit: b6984d6a62cb457c16d4b506f046b2eba110d470
+Packaged: 2026-10-14T21:49:00.239289+08:00
+ZIP timestamps: Asia/Manila (UTC+08:00), package time
