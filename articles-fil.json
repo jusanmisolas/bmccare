@@ -56,7 +56,7 @@
         "https://www.bhf.org.uk/informationsupport/support/cardiac-rehabilitation/what-is-cardiac-rehab"
       ]
     ],
-    "photo": "ph-understanding-rehab",
+    "photo": "stock-consultation",
     "updated": "2026-10-14",
     "references": [
       {
@@ -157,7 +157,7 @@
         "https://medlineplus.gov/ency/patientinstructions/000093.htm"
       ]
     ],
-    "photo": "ph-therapy",
+    "photo": "stock-exercise",
     "updated": "2026-10-14",
     "references": [
       {
@@ -258,7 +258,7 @@
         "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
       ]
     ],
-    "photo": "ph-food",
+    "photo": "stock-food",
     "updated": "2026-10-14",
     "references": [
       {
@@ -359,7 +359,7 @@
         "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health"
       ]
     ],
-    "photo": "ph-wellbeing",
+    "photo": "stock-walking",
     "updated": "2026-10-14",
     "references": [
       {
@@ -404,7 +404,7 @@
     "category": "Medicines",
     "title": "Tamang pag-inom ng gamot para sa puso",
     "desc": "Alamin ang gamit ng mga gamot, ang gagawin sa na-miss na dose, at kung paano magplano ng refill.",
-    "photo": "ph-medicine-routine",
+    "photo": "stock-medicines",
     "sources": [
       [
         "American Heart Association: Taking Control of Your Medications",
@@ -490,7 +490,7 @@
     "category": "Heart conditions",
     "title": "Pag-unawa sa blood pressure readings mo",
     "desc": "Alamin ang ibig sabihin ng readings at ang target na angkop sa iyo.",
-    "photo": "ph-blood-pressure",
+    "photo": "stock-pressure",
     "sources": [
       [
         "NHLBI: Living With High Blood Pressure",
@@ -591,7 +591,7 @@
     "category": "Heart conditions",
     "title": "Pag-unawa sa cholesterol test results",
     "desc": "Alamin ang ibig sabihin ng lipid panel at maghanda ng mga tanong tungkol sa treatment.",
-    "photo": "ph-cholesterol",
+    "photo": "stock-blood-pressure",
     "sources": [
       [
         "NHLBI: What Is Blood Cholesterol?",
@@ -688,7 +688,7 @@
     "category": "Heart conditions",
     "title": "Pag-monitor ng heart failure symptoms sa bahay",
     "desc": "Alamin ang mga pagbabagong dapat ipaalam at sundin ang symptom monitoring plan mo.",
-    "photo": "ph-heart-failure-tracking",
+    "photo": "stock-tracking",
     "sources": [
       [
         "American Heart Association: What Is Heart Failure?",
@@ -789,7 +789,7 @@
     "category": "Heart conditions",
     "title": "Pag-aalaga sa puso kapag may diabetes",
     "desc": "Pag-usapan ang blood sugar, ehersisyo, at heart health sa isang care plan.",
-    "photo": "ph-diabetes-heart",
+    "photo": "stock-glucose",
     "sources": [
       [
         "CDC: Diabetes and Your Heart",
@@ -875,7 +875,7 @@
     "category": "Well-being",
     "title": "Mas maayos na tulog habang nagpapagaling",
     "desc": "Itala ang problema sa tulog at humingi ng payo kung hindi ito nawawala.",
-    "photo": "ph-sleep-recovery",
+    "photo": "stock-sleep",
     "sources": [
       [
         "NHLBI: Get Enough Good-Quality Sleep",
@@ -961,7 +961,7 @@
     "category": "Healthy habits",
     "title": "Paghahanda para huminto sa paninigarilyo",
     "desc": "Alamin ang mga trigger sa paninigarilyo at humingi ng suportang angkop sa iyo.",
-    "photo": "ph-quit-smoking",
+    "photo": "stock-smoking",
     "sources": [
       [
         "American Heart Association: Cardiac Rehabilitation and Quitting Smoking",
@@ -1047,7 +1047,7 @@
     "category": "Safety",
     "title": "Warning signs sa puso: kailan hihingi ng agarang tulong",
     "desc": "Kilalanin ang mga sintomas na dapat seryosohin at maghanda para sa emergency.",
-    "photo": "ph-urgent-warning-signs",
+    "photo": "stock-emergency",
     "sources": [
       [
         "American Heart Association: Warning Signs of a Heart Attack",
@@ -1148,7 +1148,7 @@
     "category": "Getting started",
     "title": "Paghahanda para sa medical appointment",
     "desc": "Ihanda ang mga tanong mo at siguraduhing malinaw ang instructions bago umuwi.",
-    "photo": "ph-medical-appointments",
+    "photo": "stock-appointment",
     "sources": [
       [
         "American Heart Association: Preparing for Medical Visits",
@@ -1234,7 +1234,7 @@
     "category": "Family support",
     "title": "Pagtulong sa kapamilyang nagpapagaling",
     "desc": "Tumulong habang iginagalang ang desisyon ng pasyente at inaalagaan din ang sarili.",
-    "photo": "ph-caregiver-support",
+    "photo": "stock-caregiver",
     "sources": [
       [
         "American Heart Association: Communication Tips for Caregivers",
@@ -1320,7 +1320,7 @@
     "category": "Recovery at home",
     "title": "Recovery sa bahay matapos ang heart bypass surgery",
     "desc": "Maghanda ng mga tanong tungkol sa wound care, ehersisyo, gamot, at follow-up.",
-    "photo": "ph-bypass-home-recovery",
+    "photo": "stock-home-care",
     "sources": [
       [
         "NHS: Recovering From a Coronary Artery Bypass Graft",
@@ -1406,7 +1406,7 @@
     "category": "Recovery at home",
     "title": "Recovery matapos ang angioplasty at stent",
     "desc": "Alamin ang kailangan mong gamot, follow-up, at patuloy na pag-aalaga sa puso.",
-    "photo": "ph-life-after-stent",
+    "photo": "stock-follow-up",
     "sources": [
       [
         "NHS: Recovery After Coronary Angioplasty and Stent Insertion",
@@ -1492,7 +1492,7 @@
     "category": "Nutrition",
     "title": "Pagbawas ng sodium sa pang-araw-araw na pagkain",
     "desc": "Alamin kung saan galing ang sodium at gumawa ng praktikal na pagbabago sa pagkain.",
-    "photo": "ph-less-sodium",
+    "photo": "stock-balanced-food",
     "sources": [
       [
         "American Heart Association: How to Reduce Sodium",
@@ -1578,7 +1578,7 @@
     "category": "Nutrition",
     "title": "Pagbasa ng food labels para sa heart health",
     "desc": "Gamitin ang serving size at nutrient information para maihambing nang tama ang mga produkto.",
-    "photo": "ph-food-labels",
+    "photo": "stock-food-label",
     "sources": [
       [
         "U.S. FDA: What’s on the Nutrition Facts Label",
@@ -1675,7 +1675,7 @@
     "category": "Recovery at home",
     "title": "Pagbalik sa trabaho at araw-araw na gawain",
     "desc": "Pag-usapan ang trabaho, recovery limits, at ligtas na plano sa pagbabalik.",
-    "photo": "ph-returning-to-work",
+    "photo": "stock-work",
     "sources": [
       [
         "American Heart Association: Heart Attack Recovery Questions and Answers",
@@ -1761,7 +1761,7 @@
     "category": "Healthy habits",
     "title": "Pagtatakda ng praktikal na recovery goals",
     "desc": "Hatiin ang goals sa maliliit at malinaw na hakbang na maaari ninyong i-review.",
-    "photo": "ph-recovery-goals",
+    "photo": "stock-goals",
     "sources": [
       [
         "CDC: How Cardiac Rehabilitation Can Help Heal Your Heart",

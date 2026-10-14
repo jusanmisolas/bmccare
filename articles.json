@@ -56,7 +56,7 @@
         "https://www.bhf.org.uk/informationsupport/support/cardiac-rehabilitation/what-is-cardiac-rehab"
       ]
     ],
-    "photo": "ph-understanding-rehab",
+    "photo": "stock-consultation",
     "updated": "2026-10-14",
     "references": [
       {
@@ -157,7 +157,7 @@
         "https://medlineplus.gov/ency/patientinstructions/000093.htm"
       ]
     ],
-    "photo": "ph-therapy",
+    "photo": "stock-exercise",
     "updated": "2026-10-14",
     "references": [
       {
@@ -258,7 +258,7 @@
         "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
       ]
     ],
-    "photo": "ph-food",
+    "photo": "stock-food",
     "updated": "2026-10-14",
     "references": [
       {
@@ -359,7 +359,7 @@
         "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health"
       ]
     ],
-    "photo": "ph-wellbeing",
+    "photo": "stock-walking",
     "updated": "2026-10-14",
     "references": [
       {
@@ -404,7 +404,7 @@
     "category": "Medicines",
     "title": "Managing your heart medicines",
     "desc": "Understand your medicine list, ask about missed doses, and plan refills.",
-    "photo": "ph-medicine-routine",
+    "photo": "stock-medicines",
     "sources": [
       [
         "American Heart Association: Taking Control of Your Medications",
@@ -490,7 +490,7 @@
     "category": "Heart conditions",
     "title": "Understanding your blood pressure",
     "desc": "Learn what the numbers mean and how to discuss your personal target.",
-    "photo": "ph-blood-pressure",
+    "photo": "stock-pressure",
     "sources": [
       [
         "NHLBI: Living With High Blood Pressure",
@@ -591,7 +591,7 @@
     "category": "Heart conditions",
     "title": "Understanding your cholesterol results",
     "desc": "Make sense of a lipid panel and prepare questions about treatment.",
-    "photo": "ph-cholesterol",
+    "photo": "stock-blood-pressure",
     "sources": [
       [
         "NHLBI: What Is Blood Cholesterol?",
@@ -688,7 +688,7 @@
     "category": "Heart conditions",
     "title": "Tracking heart failure symptoms at home",
     "desc": "Learn which changes to discuss and how to use a personal symptom plan.",
-    "photo": "ph-heart-failure-tracking",
+    "photo": "stock-tracking",
     "sources": [
       [
         "American Heart Association: What Is Heart Failure?",
@@ -789,7 +789,7 @@
     "category": "Heart conditions",
     "title": "Managing diabetes and heart health",
     "desc": "Discuss blood sugar, activity, and heart health in one coordinated plan.",
-    "photo": "ph-diabetes-heart",
+    "photo": "stock-glucose",
     "sources": [
       [
         "CDC: Diabetes and Your Heart",
@@ -875,7 +875,7 @@
     "category": "Well-being",
     "title": "Sleep during recovery",
     "desc": "Build a useful sleep record and discuss persistent sleep problems.",
-    "photo": "ph-sleep-recovery",
+    "photo": "stock-sleep",
     "sources": [
       [
         "NHLBI: Get Enough Good-Quality Sleep",
@@ -961,7 +961,7 @@
     "category": "Healthy habits",
     "title": "Making a plan to stop smoking",
     "desc": "Identify triggers, ask about treatment, and make a practical quit plan.",
-    "photo": "ph-quit-smoking",
+    "photo": "stock-smoking",
     "sources": [
       [
         "American Heart Association: Cardiac Rehabilitation and Quitting Smoking",
@@ -1047,7 +1047,7 @@
     "category": "Safety",
     "title": "Heart warning signs: when to seek urgent help",
     "desc": "Recognize concerning symptoms and prepare for emergency action.",
-    "photo": "ph-urgent-warning-signs",
+    "photo": "stock-emergency",
     "sources": [
       [
         "American Heart Association: Warning Signs of a Heart Attack",
@@ -1148,7 +1148,7 @@
     "category": "Getting started",
     "title": "Preparing for a medical appointment",
     "desc": "Prepare clear questions and leave with instructions you understand.",
-    "photo": "ph-medical-appointments",
+    "photo": "stock-appointment",
     "sources": [
       [
         "American Heart Association: Preparing for Medical Visits",
@@ -1234,7 +1234,7 @@
     "category": "Family support",
     "title": "Supporting a loved one during recovery",
     "desc": "Support care while respecting the patient’s choices and your own limits.",
-    "photo": "ph-caregiver-support",
+    "photo": "stock-caregiver",
     "sources": [
       [
         "American Heart Association: Communication Tips for Caregivers",
@@ -1320,7 +1320,7 @@
     "category": "Recovery at home",
     "title": "Recovering at home after heart bypass surgery",
     "desc": "Prepare questions about wounds, activity, medicines, and follow-up.",
-    "photo": "ph-bypass-home-recovery",
+    "photo": "stock-home-care",
     "sources": [
       [
         "NHS: Recovering From a Coronary Artery Bypass Graft",
@@ -1406,7 +1406,7 @@
     "category": "Recovery at home",
     "title": "Recovery after angioplasty and a stent",
     "desc": "Understand the importance of medicines, follow-up, and ongoing heart care.",
-    "photo": "ph-life-after-stent",
+    "photo": "stock-follow-up",
     "sources": [
       [
         "NHS: Recovery After Coronary Angioplasty and Stent Insertion",
@@ -1492,7 +1492,7 @@
     "category": "Nutrition",
     "title": "Reducing sodium in familiar meals",
     "desc": "Spot sodium sources and plan changes that fit your kitchen.",
-    "photo": "ph-less-sodium",
+    "photo": "stock-balanced-food",
     "sources": [
       [
         "American Heart Association: How to Reduce Sodium",
@@ -1578,7 +1578,7 @@
     "category": "Nutrition",
     "title": "Reading food labels for heart health",
     "desc": "Use serving sizes and nutrient information to compare products fairly.",
-    "photo": "ph-food-labels",
+    "photo": "stock-food-label",
     "sources": [
       [
         "U.S. FDA: What’s on the Nutrition Facts Label",
@@ -1675,7 +1675,7 @@
     "category": "Recovery at home",
     "title": "Returning to work and daily tasks",
     "desc": "Discuss job demands, recovery limits, and a safe return plan.",
-    "photo": "ph-returning-to-work",
+    "photo": "stock-work",
     "sources": [
       [
         "American Heart Association: Heart Attack Recovery Questions and Answers",
@@ -1761,7 +1761,7 @@
     "category": "Healthy habits",
     "title": "Setting practical recovery goals",
     "desc": "Turn broad intentions into small, agreed steps you can review.",
-    "photo": "ph-recovery-goals",
+    "photo": "stock-goals",
     "sources": [
       [
         "CDC: How Cardiac Rehabilitation Can Help Heal Your Heart",

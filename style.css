@@ -397,3 +397,61 @@ section.content>.wrap.article{padding-top:0;padding-bottom:0}.worksheet-grid{gap
 @media(min-width:651px) and (max-width:1000px){.newsgrid{grid-template-columns:repeat(2,minmax(0,1fr))}.split{gap:32px}.sectionhead{align-items:flex-start}}
 @media(max-width:650px){:root{--space-grid:20px}.wrap{width:calc(100% - 40px)}.sectionhead{gap:12px;margin-bottom:24px}.sectionhead h2{font-size:30px}.sectionhead>a{margin-top:4px}.split{gap:24px}.cardbody,.newsitem,.staff{padding:20px}.cardbody h3,.newsitem h3{font-size:20px}.hero .lead{font-size:17px}.article{padding:32px 0 48px}.article h1{font-size:clamp(30px,7.6vw,36px)}.article h2{font-size:22px;margin-top:28px}.article p{font-size:17px;line-height:1.75}.article .meta{font-size:13px}.article .guide-purpose{font-size:14px}.article .share-status{font-size:14px}.article .sources{font-size:14px}.contact-fields{gap:0}.footergrid{gap:28px}.buttons{margin-top:22px}}
 @media print{body{font-size:11pt}.article{max-width:none;padding:0}.article h1{font-size:26pt}.article h2{font-size:15pt}.article p{font-size:11pt;line-height:1.55}.article .sources{font-size:10pt}}
+
+.hero .hero-contact-note{font-size:13px;line-height:1.5;margin:14px 0 0}.appointment-intro{font-size:15px;line-height:1.65;margin-bottom:22px}
+
+/* Clear section boundaries within the established warm palette. */
+:root{--cream:#fbf7ef;--blush:#faf0f2;--surface:#fff;--line:#e7dadd}
+.hero{background:#f7e9ed;border-bottom:1px solid #e5ccd4}
+#services{background:var(--cream);border-bottom:1px solid #e9e0d4}
+#resources{background:var(--surface);border-bottom:1px solid var(--line)}
+#getting-started{background:var(--blush);border-bottom:1px solid #e5d3d9}
+#faqs{background:var(--surface);border-bottom:1px solid var(--line)}
+#news{background:var(--cream);border-bottom:1px solid #e9e0d4}
+#team{background:var(--surface);border-bottom:1px solid var(--line)}
+#updates{background:var(--blush);border-top:0;border-bottom:1px solid #e5d3d9}
+#contact{background:var(--cream);border-bottom:1px solid #e9e0d4}
+section.content{padding:64px 0}
+#services .service{border-bottom-color:#e1d6c6}#services .service>span{font-size:23px;color:#8b253b}#services .service h3{color:var(--ink)}
+#getting-started .steps li{background:#fff;border-color:#e2cdd4}#getting-started .steps li:before{background:#f7e9ed;border-color:#e3c9d2;color:#8b253b}
+.visit-toolbar{background:#fff;border-color:#e2cdd4}
+#faqs details{background:#fbf9f8;border-color:var(--line)}
+.card,.newsitem,.staff,.panel,.contact-form-panel,.location-panel{background:#fff;border-color:var(--line)}
+.newsitem{border-top-color:var(--teal)}.contactbox,.headstaff{background:#432c34}
+.contactbox p,.headstaff p{color:#f0e3e8}.contactbox a{color:#fff}
+footer{background:#f3eeeb;border-top:0}
+@media(max-width:650px){section.content{padding:44px 0}}
+@media print{.hero,#services,#resources,#getting-started,#faqs,#news,#team,#updates,#contact{background:#fff;border:0}section.content{padding:0}}
+
+.stock-caption{font-size:11px;line-height:1.5;color:var(--muted);margin-top:8px}.hero .photohero{align-self:center}.headstaff{min-height:120px}.teamgrid .staff{min-height:130px}.hero .lead{max-width:58ch}.service h3{line-height:1.4}
+@media(max-width:650px){.hero .lead{font-size:16px}.stock-caption{font-size:11px}.teamgrid .staff{min-height:0}}
+
+/* Quiet secondary actions; primary emphasis belongs to program access. */
+.btn,.resource-link,.print,.share-button,.sectionhead>a,.news-read,.reset-filters{box-shadow:none}
+.btn:not(.outline){box-shadow:none}.btn.outline,.resource-link,.print{border-color:#dfccd2;background:#fff}
+.sectionhead>a,.news-read,.reset-filters{border-color:transparent;border-radius:4px;background:transparent;box-shadow:none;padding:10px 0;text-decoration:underline;text-underline-offset:5px;font-weight:600}
+.sectionhead>a:hover,.news-read:hover,.reset-filters:not(:disabled):hover{background:transparent;border-color:transparent;color:#702338;text-decoration-thickness:2px}
+.sectionhead>a .action-icon,.news-read .action-icon{width:16px;height:16px;flex-basis:16px;order:2}
+.reset-filters:disabled{visibility:hidden}.chip{background:#fff;border-color:#e4d8dc;font-weight:500}.chip.active,.chip.active:hover{background:#f7e9ed;border-color:#bd8c9c;color:#702338;font-weight:600}
+.share-button{background:#faf8f9;border-color:#e5dadd;font-weight:500;min-height:44px;padding:10px 12px}.article-share{padding:18px 0}.share-actions{gap:8px}
+.btn:active,.resource-link:active,.share-button:active,.print:active,.sectionhead>a:active,.news-read:active{box-shadow:none}
+@media(max-width:650px){.sectionhead>a{padding:10px 0;margin-top:0}.share-button{flex:0 1 auto}.library-status .reset-filters{padding:10px 0}}
+@media(forced-colors:active){.chip.active{outline:2px solid Highlight}.sectionhead>a,.news-read,.reset-filters{border-color:transparent}}
+
+/* One compact identity header; program access leads the page. */
+.brandrow{gap:24px;padding:20px 0}.brandrow .brand{min-width:0;gap:14px}.brand-text{display:flex;flex-direction:column;gap:6px;min-width:0}.brand-title{font-size:23px;font-weight:600;line-height:1.25}.brand-unit{font-size:12px;font-weight:400;line-height:1.5;color:var(--muted);letter-spacing:0}.header-controls{display:flex;align-items:center;gap:12px;flex-shrink:0}
+.header-controls .language-pill{position:relative;display:inline-flex;align-items:center;color:#702338;flex:none}.header-controls .language-pill select{appearance:none;-webkit-appearance:none;width:92px;height:34px;min-height:34px;padding:5px 24px 5px 32px;border:1px solid #dfccd2;border-radius:999px;background:#fbf7ef;color:transparent;font:600 14px/1.4 Arial,sans-serif;cursor:pointer;box-shadow:none}.header-controls .language-pill select:hover{background:#f7e9ed}.header-controls .language-pill select:focus-visible{outline:3px solid var(--teal);outline-offset:3px}.header-controls .language-short{position:absolute;left:34px;top:50%;transform:translateY(-50%);color:#702338;font:600 13px/1.4 Arial,sans-serif;pointer-events:none}.header-controls .language-globe,.header-controls .language-chevron{color:#702338}.header-controls .language-pill option{color:#702338;background:#fff}
+#team{background:#fff;border-bottom:1px solid var(--line)}#faqs{background:var(--cream);border-bottom:1px solid #e9e0d4}#contact{background:var(--blush);border-bottom:1px solid #e5d3d9}#resources{background:#fff}#news{background:var(--cream)}#updates{background:#fff}
+@media(max-width:650px){.brandrow{align-items:center;gap:12px;padding:16px 0}.brandrow .brand{gap:10px;flex:1}.brand-title{font-size:18px;line-height:1.3}.brand-unit{font-size:11px;line-height:1.5}.brandlogo-frame{flex-shrink:0}.header-controls{flex-direction:column;align-items:flex-end;gap:8px}.header-controls .language-pill select{font-size:16px}.brandrow #menu{min-height:40px;padding:8px 12px;font-size:13px}#nav{font-size:14px}}
+@media(max-width:380px){.brandrow .brandlogo-frame{display:none}.brand-title{font-size:18px}}
+@media(forced-colors:active){.header-controls .language-pill select{appearance:auto;color:ButtonText;width:120px;padding:5px}.header-controls .language-short,.header-controls .language-globe,.header-controls .language-chevron{display:none}}
+
+/* Warm clinical palette: neutral surfaces, restrained burgundy emphasis. */
+:root{--ink:#302d2f;--muted:#615b5e;--cream:#faf7f1;--blush:#f7eef1;--line:#e4dadd}
+.hero{background:var(--cream);border-bottom:1px solid #e6ded4}#services{background:#fff;border-bottom:1px solid var(--line)}#getting-started{background:var(--blush)}#faqs{background:#fff;border-bottom:1px solid var(--line)}#contact{background:var(--cream);border-bottom:1px solid #e6ded4}#updates{background:var(--blush)}
+.hero .hero-contact-note{font-size:13px;line-height:1.6;color:var(--ink);margin:16px 0 6px}.hero .appointment-note{font-size:13px;line-height:1.6;color:var(--muted);margin:0;max-width:52ch}.hero .lead{max-width:54ch}.contactbox,.headstaff{background:#432c34}.service>span{opacity:.75}.contact-form-panel{border-color:#d9c8ce}.stock-caption{color:#615b5e}
+@media(max-width:650px){.hero .hero-contact-note,.hero .appointment-note{font-size:12px}}
+
+.hero .photohero img{object-position:45% center}
+
+.headphoto img{object-position:center 22%}.staffphoto img{object-position:center 28%}#team .teamgrid .staff:nth-child(1) .staffphoto img{object-position:45% center}#team .teamgrid .staff:nth-child(2) .staffphoto img{object-position:35% 30%}
